@@ -2,9 +2,9 @@
 
 ## Correspondencia entre la evaluación y los resultados de aprendizaje
 
-La evaluación del aprendizaje se organizará alrededor de evidencias observables y verificables, en correspondencia con los resultados de aprendizaje del programa (RAP) y de cada actividad académica (RAA). El uso de agentes de inteligencia artificial no se considerará una demostración suficiente de competencia: el estudiante deberá acreditar comprensión del sistema, capacidad para justificar decisiones, calidad de los artefactos y responsabilidad sobre las acciones automatizadas.
+La evaluación del aprendizaje se organizará alrededor de evidencias observables y verificables, en correspondencia con los resultados de aprendizaje del programa (RAP) y de cada actividad académica (RAA). El uso de agentes de inteligencia artificial no se considerará una demostración suficiente de competencia: el estudiante acreditará comprensión del sistema, capacidad para justificar decisiones, calidad de los artefactos y responsabilidad sobre las acciones automatizadas.
 
-La evaluación incluirá prácticas de especificación y arquitectura, ejercicios de programación e integración, pruebas automatizadas, análisis de seguridad, estudios de fallos y sustentaciones técnicas. Los instrumentos considerarán la corrección funcional, la robustez, la mantenibilidad, la trazabilidad, la reproducibilidad y el manejo adecuado de permisos y datos. Las rúbricas deberán distinguir el cumplimiento de requisitos de la calidad del proceso empleado para alcanzarlo.
+La evaluación incluirá prácticas de especificación y arquitectura, ejercicios de programación e integración, pruebas automatizadas, análisis de seguridad, estudios de fallos y sustentaciones técnicas. Los instrumentos considerarán la corrección funcional, la robustez, la mantenibilidad, la trazabilidad, la reproducibilidad y el manejo adecuado de permisos y datos. Las rúbricas distinguirán el cumplimiento de requisitos de la calidad del proceso empleado para alcanzarlo.
 
 En las actividades de desarrollo asistido por agentes, se valorarán la definición de objetivos y criterios de aceptación, la selección y configuración de herramientas, la capacidad de supervisión, la verificación independiente del código y la identificación de limitaciones. La calidad del texto de las instrucciones dirigidas a agentes podrá analizarse cuando contribuya a resolver el problema, pero no constituirá por sí sola el criterio principal de desempeño.
 
@@ -22,7 +22,7 @@ Una ejecución satisfactoria aislada no constituirá evidencia suficiente de fun
 
 Las asignaturas establecerán evaluaciones diagnósticas, formativas y sumativas. Los diagnósticos identificarán brechas de programación, diseño y uso de herramientas; las actividades formativas permitirán corregir errores de razonamiento y ejecución; y las evaluaciones sumativas comprobarán el logro de los resultados previstos mediante artefactos y sustentaciones.
 
-La coordinación académica consolidará evidencias de logro de los RAP a partir de los RAA, sus instrumentos y niveles de dominio. Los resultados permitirán identificar competencias insuficientemente cubiertas, duplicaciones o cargas de trabajo desproporcionadas y orientar ajustes periódicos de contenidos y actividades. Los indicadores de calidad académica deberán combinar desempeño estudiantil, culminación de proyectos y retroalimentación de profesores y estudiantes.
+La coordinación académica consolidará evidencias de logro de los RAP a partir de los RAA, sus instrumentos y niveles de dominio. Los resultados permitirán identificar competencias insuficientemente cubiertas, duplicaciones o cargas de trabajo desproporcionadas y orientar ajustes periódicos de contenidos y actividades. Los indicadores de calidad académica combinarán desempeño estudiantil, culminación de proyectos y retroalimentación de profesores y estudiantes.
 
 ## Seguimiento y evaluación del funcionamiento del programa
 

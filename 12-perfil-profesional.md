@@ -4,7 +4,7 @@
 
 La Especialización en Ingeniería de Software Agéntica está dirigida principalmente a profesionales de ingeniería de sistemas, informática, computación, software y áreas afines que deseen profundizar en métodos para desarrollar software con agentes de IA y construir sistemas que incorporen agentes. También podrán participar profesionales de otras disciplinas con experiencia demostrable en programación, desarrollo o integración de sistemas, de acuerdo con las reglas de admisión aplicables.
 
-La apertura a profesionales de distintas disciplinas se apoyará en mecanismos de diagnóstico y nivelación técnica. Esta inclusión debe conciliarse con el carácter avanzado y la duración del programa: los aspirantes deberán contar con fundamentos de programación suficientes para alcanzar competencias de arquitectura, evaluación y seguridad de sistemas agénticos.
+La apertura a profesionales de distintas disciplinas se apoyará en mecanismos de diagnóstico y nivelación técnica. Esta inclusión se conciliará con el carácter avanzado y la duración del programa: los aspirantes deberán contar con fundamentos de programación suficientes para alcanzar competencias de arquitectura, evaluación y seguridad de sistemas agénticos.
 
 ## Requisitos y competencias de ingreso
 

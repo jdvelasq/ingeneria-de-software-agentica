@@ -2,7 +2,7 @@
 
 ## Asignaturas obligatorias
 
-La formación obligatoria se organizará alrededor de los conocimientos y competencias que todo egresado debe demostrar para ejercer la ingeniería de software agéntica. Se propone la siguiente estructura preliminar:
+La formación obligatoria se organizará alrededor de los conocimientos y competencias que todo egresado demostrará para ejercer la ingeniería de software agéntica. Se propone la siguiente estructura preliminar:
 
 | Asignatura | Créditos propuestos | Propósito formativo |
 | --- | ---: | --- |
@@ -28,13 +28,13 @@ Además de las profundizaciones en evaluación y seguridad y de la experiencia d
 | Modelos abiertos, despliegue local y soberanía de datos | Alternativas abiertas y locales y protección de datos en organizaciones con restricciones | Capítulo 20 |
 | Gestión, economía y adopción de IA en equipos de desarrollo | Cobertura parcial de gestión y economía de la ingeniería de software; costos y métricas de adopción | Capítulo 14 |
 
-El componente elegible deberá facilitar trayectorias de profundización sin convertirse en la única vía para alcanzar competencias o RAP obligatorios.
+El componente elegible facilitará trayectorias de profundización sin convertirse en la única vía para alcanzar competencias o RAP obligatorios.
 
 ## Actividades académicas integradoras
 
 El **Proyecto Integrador**, con cinco créditos propuestos, articulará aprendizajes durante el segundo semestre. Cada proyecto abordará un problema de desarrollo de software con criterios de aceptación explícitos e incorporará, según corresponda, actividades de desarrollo asistido por agentes o componentes agénticos integrados en la solución.
 
-Los productos mínimos incluirán un repositorio versionado, documentación de requisitos y arquitectura, evidencia de pruebas, mecanismos de observabilidad y trazabilidad, evaluación de riesgos y sustentación técnica. Deberá distinguirse el trabajo delegado a agentes de las decisiones, verificaciones y responsabilidades asumidas por los estudiantes.
+Los productos mínimos incluirán un repositorio versionado, documentación de requisitos y arquitectura, evidencia de pruebas, mecanismos de observabilidad y trazabilidad, evaluación de riesgos y sustentación técnica. El trabajo delegado a agentes se distinguirá de las decisiones, verificaciones y responsabilidades asumidas por los estudiantes.
 
 El problema del Proyecto Integrador podrá provenir de (a) una organización externa, con acuerdos de confidencialidad y de uso de datos; (b) un grupo de investigación o un proyecto de desarrollo de la Facultad; o (c) un proyecto de software abierto, mediante una contribución acordada con sus mantenedores. En todos los casos regirán PI-1 a PI-4, la evidencia de atribución individual (historial de cambios, bitácora y sustentación) y la declaración de lo delegado a agentes. La modalidad (c) atiende la restricción de confidencialidad que limita los proyectos con organizaciones y genera evidencia pública y verificable de la calidad del trabajo del estudiante.
 

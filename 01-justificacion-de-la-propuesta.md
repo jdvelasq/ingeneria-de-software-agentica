@@ -12,7 +12,7 @@ En primer lugar, la automatización de la programación modifica las competencia
 
 En segundo lugar, el desarrollo de sistemas con agentes introduce desafíos adicionales. La conexión de agentes con herramientas y fuentes de información requiere diseñar mecanismos de gestión de contexto, memoria, permisos, coordinación, trazabilidad, evaluación y supervisión humana. El dominio instrumental de asistentes de programación no basta para construir sistemas confiables y sostenibles.
 
-En tercer lugar, la nueva oferta debe diferenciarse de otros posgrados de la Facultad. Su objeto no será entrenar modelos ni desarrollar productos analíticos como fin principal, sino aplicar fundamentos de ingeniería de software para construir, verificar, desplegar y evolucionar productos mediante agentes, así como diseñar aplicaciones que incorporen capacidades agénticas.
+En tercer lugar, la nueva oferta se diferenciará de otros posgrados de la Facultad. Su objeto no será entrenar modelos ni desarrollar productos analíticos como fin principal, sino aplicar fundamentos de ingeniería de software para construir, verificar, desplegar y evolucionar productos mediante agentes, así como diseñar aplicaciones que incorporen capacidades agénticas.
 
 ## Análisis del entorno y de la educación superior
 

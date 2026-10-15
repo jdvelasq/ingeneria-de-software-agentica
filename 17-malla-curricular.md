@@ -18,7 +18,7 @@
 
 El **primer semestre** desarrolla competencias de ingeniería de software con agentes, construcción de sistemas agénticos y evaluación, seguridad y confiabilidad. Las tres asignaturas se cursarán con actividades coordinadas, sin duplicación de carga. Podrá prepararse un anteproyecto integrador como evidencia de las asignaturas, sin atribuir créditos adicionales.
 
-El **segundo semestre** combina dos elegibles con el Proyecto Integrador de cinco créditos. La solución debe evidenciar ambos ejes disciplinares y su calidad técnica, seguridad, evaluación reproducible y sustentación individual.
+El **segundo semestre** combina dos elegibles con el Proyecto Integrador de cinco créditos. La solución evidenciará ambos ejes disciplinares y su calidad técnica, seguridad, evaluación reproducible y sustentación individual.
 
 ## Dedicación y aprobación
 
