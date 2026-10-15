@@ -1,23 +1,45 @@
 # Estado actual del programa
 
-<!-- Esquema de subsecciones basado en el documento de referencia de la Maestría en Ingeniería – Analítica; los encabezados que no aparecen allí de forma expresa son adaptaciones editoriales para la especialización. Pendiente de redacción. -->
+Este capítulo examina los antecedentes y las capacidades institucionales sobre los cuales se proyecta la Especialización en Ingeniería de Software Agéntica. Puesto que se trata de una propuesta nueva, el estado actual se refiere a la trayectoria de la formación en ingeniería de software de la Facultad de Minas y, en particular, a la especialización preexistente. La información histórica se toma de la propuesta institucional de *Especialización en Desarrollo de Software Impulsado por Inteligencia Artificial*, utilizada como documento de partida. Las cifras de matrícula, graduación y producción académica deberán contrastarse con los registros oficiales antes de presentar la versión definitiva.
 
 ## Reseña histórica
 
-<!-- Pendiente de desarrollo. -->
+La Facultad de Minas de la Universidad Nacional de Colombia, Sede Medellín, cuenta con una trayectoria de formación en computación que antecede a los programas curriculares actuales. El documento de partida sitúa sus antecedentes en la década de 1960, con la incorporación de infraestructura de procesamiento de datos y la enseñanza temprana de programación. También identifica la creación del programa de Ingeniería de Sistemas e Informática en 1997 como un hito de consolidación de la formación en el área.
+
+En el nivel de posgrado, el antecedente directo es la Especialización en Sistemas Informáticos, que, según la propuesta anterior, evolucionó en 1998 hacia la **Especialización en Ingeniería de Software**. Este cambio representó una orientación más explícita hacia el diseño, modelado, construcción y calidad de sistemas de software. Posteriormente, la oferta académica se relacionó con otras áreas de profundización, entre ellas gerencia de sistemas, inteligencia artificial e ingeniería de software educativo. Estas referencias describen la evolución consignada en el documento de partida; los actos administrativos, las denominaciones oficiales y las fechas deberán cotejarse con el archivo institucional.
+
+La propuesta de Ingeniería de Software Agéntica parte de ese antecedente disciplinar. No pretende sustituir los principios de ingeniería de software por una formación instrumental en plataformas de inteligencia artificial, sino actualizar el ámbito profesional al incorporar agentes tanto en las actividades de desarrollo como en el comportamiento de los sistemas construidos.
 
 ## Evolución del programa
 
-<!-- Pendiente de desarrollo. -->
+La especialización preexistente constituye el referente inmediato para determinar qué capacidades académicas deben conservarse y cuáles requieren transformación. El documento de partida señala una tradición asociada con modelado, lenguajes computacionales, arquitectura, ingeniería web, métodos formales, bases de datos y calidad de software. Estas áreas siguen siendo pertinentes para formar especialistas capaces de especificar, verificar, integrar y mantener productos de software.
+
+La evolución propuesta supone un cambio de orientación más profundo que la incorporación de herramientas para generar código. En la práctica tradicional, la especificación, implementación y verificación de tareas se organizaban principalmente alrededor del trabajo humano asistido por herramientas de automatización. En la ingeniería de software agéntica se introducen componentes capaces de ejecutar secuencias de acciones sobre repositorios, herramientas y servicios, lo que exige métodos explícitos de delegación, control de contexto, permisos, trazabilidad, evaluación y supervisión. La continuidad se encuentra en el objeto de ingeniería —el sistema de software— y el cambio en la distribución y el control del trabajo técnico, así como en las arquitecturas de los nuevos productos.
+
+Para sustentar institucionalmente esta transformación será necesario comparar el plan de estudios vigente de la Especialización en Ingeniería de Software con la estructura propuesta, identificar asignaturas que se mantienen, se actualizan o dejan de ofrecerse, y establecer la situación administrativa actual del programa. Esa comparación corresponde a la fase de formulación curricular y no debe suponerse resuelta por la sola presentación de una nueva denominación.
 
 ## Estudiantes matriculados y graduados
 
-<!-- Pendiente de desarrollo. -->
+El documento de partida no contiene una serie histórica verificable de estudiantes admitidos, matriculados, retirados o graduados de la Especialización en Ingeniería de Software. Por tanto, no es posible presentar cifras de evolución, permanencia o impacto de sus egresados sin consultar los sistemas institucionales.
+
+Para completar el diagnóstico se deberán consolidar, como mínimo, las cohortes abiertas, aspirantes, admitidos, matriculados, estudiantes activos y graduados por período académico; los tiempos de graduación y las tasas de permanencia; y, cuando exista información disponible, los perfiles profesionales y sectores de vinculación de los egresados. La lectura de estos indicadores deberá distinguir cambios de demanda del programa, cambios en la periodicidad de admisión y eventuales interrupciones de oferta. También será necesario identificar la población estudiantil que podría verse afectada por una transición curricular.
+
+**Información institucional pendiente:** serie histórica oficial de matrícula y graduación; evolución de la demanda; caracterización del estudiantado y los egresados; y situación actual de admisiones y estudiantes activos.
 
 ## Investigaciones, proyectos y vínculos con el sector externo
 
-<!-- Pendiente de desarrollo. -->
+El documento de partida identifica capacidades investigativas afines en la Facultad de Minas. Entre ellas se encuentran el grupo **Calidad de Software**, con líneas asociadas a verificación, validación y pruebas; **Lenguajes Computacionales**, con trabajo en lingüística computacional y lenguajes controlados; y **SENDA R&D Group**, orientado a ingeniería, arquitectura, desarrollo y transformación digital. También menciona los grupos **Big Data y Data Analytics** e **Inteligencia Artificial (GIDIA)** como capacidades complementarias. La vigencia de grupos, clasificación, líneas y adscripciones deberá comprobarse en los registros institucionales y de Minciencias.
+
+Estas capacidades ofrecen una base plausible para articular fundamentos de ingeniería de software con los desafíos técnicos de los sistemas agénticos. La verificación y validación aportan métodos para evaluar artefactos producidos con agentes; los lenguajes computacionales contribuyen al tratamiento de especificaciones, interacción y representación de conocimiento; y la arquitectura de software respalda el diseño de componentes, interfaces, límites de autonomía y mecanismos de integración.
+
+Sin embargo, la existencia de grupos afines no demuestra por sí sola experiencia específica en ingeniería de software agéntica ni disponibilidad docente para todas sus áreas. El diagnóstico definitivo deberá relacionar profesores, asignaturas impartidas, proyectos de investigación o desarrollo, publicaciones, trabajos finales, laboratorios y convenios pertinentes. Asimismo, deberá identificar colaboraciones con empresas y entidades públicas en las que puedan desarrollarse proyectos integradores sobre sistemas reales. La articulación con Analítica permitirá considerar la asignatura *Productos de Datos* como optativa compartida para profundizar en DataOps/MLOps, sujeta a las condiciones académicas correspondientes, sin duplicar estas temáticas en el núcleo obligatorio.
+
+**Información institucional pendiente:** inventario verificable de proyectos y publicaciones relevantes, docentes disponibles, infraestructura de laboratorios, convenios activos y trabajos académicos vinculados con ingeniería de software.
 
 ## Relación con la especialización anterior
 
-<!-- Pendiente de desarrollo. -->
+La Especialización en Ingeniería de Software Agéntica se concibe como una **nueva propuesta curricular sustentada en la trayectoria del programa anterior**, y no como un simple cambio de nombre. Su formulación deberá precisar la situación institucional de la Especialización en Ingeniería de Software y las decisiones necesarias para una eventual sustitución de la oferta, de conformidad con la normativa universitaria aplicable.
+
+La relación entre ambas especializaciones estará determinada por la continuidad de sus fundamentos disciplinares y por una reorientación hacia la construcción de software con agentes y de sistemas que integran agentes. Esta distinción permite conservar los conocimientos de arquitectura, calidad, pruebas y mantenimiento, al tiempo que se incorporan prácticas de orquestación, ingeniería de contexto, evaluación y control de sistemas agénticos. También evita trasladar como obligatorios contenidos propios de otras especializaciones, particularmente aquellos cubiertos por *Productos de Datos* en Analítica.
+
+El plan de transición deberá establecer las equivalencias académicas que correspondan, el tratamiento de los estudiantes activos y las condiciones para el cierre o modificación de la oferta anterior, si estas decisiones son aprobadas. De esta manera, la nueva especialización podrá apoyarse en la experiencia académica acumulada sin atribuirse resultados que todavía no han sido documentados y sin comprometer derechos de los estudiantes del programa vigente.
