@@ -6,9 +6,9 @@ La formación obligatoria se organizará alrededor de los conocimientos y compet
 
 | Asignatura | Créditos propuestos | Propósito formativo |
 | --- | ---: | --- |
-| Prácticas de Ingeniería de Software | 4 | Consolidar especificación, arquitectura, construcción, pruebas, calidad y mantenimiento en proyectos de software. |
-| Desarrollo de Software Asistido por Agentes | 4 | Diseñar y ejecutar procesos de desarrollo con agentes, herramientas, contexto, permisos, delegación supervisada y verificación de resultados. |
-| Arquitectura e Ingeniería de Sistemas Agénticos | 4 | Diseñar, integrar, evaluar y mantener aplicaciones con componentes agénticos, incluyendo interacción con herramientas, coordinación, memoria, seguridad y observabilidad. |
+| Ingeniería de Software Asistida por Agentes | 4 | Especificar, desarrollar, revisar y verificar software con apoyo supervisado de agentes, aplicando requisitos, pruebas y control de calidad. |
+| Ingeniería de Sistemas Agénticos | 4 | Diseñar e integrar aplicaciones con agentes, herramientas, APIs, coordinación, estado, memoria, recuperación de información y observabilidad. |
+| Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos | 4 | Evaluar sistemas agénticos mediante protocolos reproducibles, pruebas de seguridad, controles de autonomía, análisis de fallos y confiabilidad. |
 
 La evaluación, las pruebas y la seguridad serán competencias transversales de las tres asignaturas, con evidencias obligatorias de aprendizaje. La denominación, los créditos y el alcance específico de cada asignatura deberán revisarse durante la aprobación del plan de estudios y sus programas detallados.
 
@@ -22,8 +22,15 @@ El componente elegible deberá facilitar trayectorias de profundización sin con
 
 ## Actividades académicas integradoras
 
-El **Proyecto Integrador**, con cinco créditos propuestos, articulará aprendizajes a lo largo del período académico. Cada proyecto abordará un problema de desarrollo de software con criterios de aceptación explícitos e incorporará, según corresponda, actividades de desarrollo asistido por agentes o componentes agénticos integrados en la solución.
+El **Proyecto Integrador**, con cinco créditos propuestos, articulará aprendizajes durante el segundo semestre. Cada proyecto abordará un problema de desarrollo de software con criterios de aceptación explícitos e incorporará, según corresponda, actividades de desarrollo asistido por agentes o componentes agénticos integrados en la solución.
 
 Los productos mínimos incluirán un repositorio versionado, documentación de requisitos y arquitectura, evidencia de pruebas, mecanismos de observabilidad y trazabilidad, evaluación de riesgos y sustentación técnica. Deberá distinguirse el trabajo delegado a agentes de las decisiones, verificaciones y responsabilidades asumidas por los estudiantes.
 
 El programa tendrá **25 créditos académicos**, distribuidos en **17 créditos obligatorios** (tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco) y **ocho créditos elegibles** (dos asignaturas de cuatro créditos). La estructura deberá verificarse en términos de factibilidad, intensidad de dedicación, secuencia de actividades y suficiencia de evidencias para los resultados de aprendizaje.
+
+
+## Secuencia curricular propuesta
+
+El primer semestre comprende las tres asignaturas obligatorias de cuatro créditos (12 créditos). El segundo comprende dos elegibles de cuatro créditos y el Proyecto Integrador de cinco créditos (13 créditos). La formación se desarrollará en dos semestres, sujeta a aprobación institucional. Los fundamentos de ingeniería de software se verificarán al ingreso y se reforzarán mediante nivelación y actividades transversales.
+
+La evaluación del Proyecto Integrador exigirá especificación, arquitectura, producto reproducible, pruebas, métricas, análisis de riesgos, trazas y sustentación. Se propone una rúbrica de 20 % para requisitos y arquitectura, 25 % para construcción e integración, 25 % para evaluación, 15 % para seguridad y operación y 15 % para documentación y sustentación, sujeta a aprobación académica.
