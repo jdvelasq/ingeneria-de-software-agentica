@@ -14,6 +14,12 @@ Las asignaturas establecerán evaluaciones diagnósticas, formativas y sumativas
 
 La coordinación académica consolidará evidencias de logro de los RAP a partir de los RAA, sus instrumentos y niveles de dominio. Los resultados permitirán identificar competencias insuficientemente cubiertas, duplicaciones o cargas de trabajo desproporcionadas y orientar ajustes periódicos de contenidos y actividades. Los indicadores de calidad académica deberán combinar desempeño estudiantil, culminación de proyectos y retroalimentación de profesores y estudiantes.
 
+## Seguimiento y evaluación del funcionamiento del programa
+
+Además de la evaluación de los estudiantes, se implementará un mecanismo de seguimiento de la calidad de la oferta. Al finalizar **cada bloque académico de ocho semanas**, se aplicarán instrumentos de percepción estudiantil sobre acompañamiento, carga de trabajo, recursos y pertinencia de las actividades. Un **comité curricular**, integrado de acuerdo con la regulación institucional, revisará periódicamente los resultados académicos, las necesidades del sector productivo, las herramientas de laboratorio y la vigencia de contenidos. La matriz RAP–RAA servirá para verificar cobertura, progresión y logros por cohorte.
+
+La coordinación consolidará indicadores de matrícula, permanencia, aprobación, graduación, suficiencia de infraestructura, evaluación docente y resultados del proyecto integrador. Los ajustes derivados de este seguimiento se documentarán con responsables, plazos y evidencia, distinguiendo modificaciones operativas de aquellas que requieran aprobación curricular formal.
+
 ## Retroalimentación y acompañamiento de los estudiantes
 
 La retroalimentación incluirá revisión docente, evaluación entre pares y análisis individual de bitácoras de desarrollo. Las sesiones de acompañamiento priorizarán la interpretación de errores, la revisión de decisiones arquitectónicas y la explicación de comportamientos inesperados de los agentes.
