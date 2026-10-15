@@ -12,7 +12,7 @@ Al finalizar la Especialización en Ingeniería de Software Agéntica, el egresa
 - **RAP 6. Responsabilidad profesional:** identificar, analizar y mitigar riesgos de seguridad, privacidad y uso de recursos asociados con agentes, incorporando mecanismos de autorización y supervisión humana.
 - **RAP 7. Proyecto aplicado:** desarrollar y sustentar una solución integrada a un problema real, comunicando decisiones de ingeniería, evidencias de evaluación, limitaciones y criterios de sostenibilidad.
 
-Estos resultados reformulan el alcance del documento de partida. Se conserva la orientación hacia productos funcionales, arquitectura, calidad y proyecto aplicado, mientras que la adaptación de modelos de aprendizaje automático y AIOps dejan de constituir resultados centrales de la especialización.
+Los resultados de aprendizaje se orientan a productos funcionales, arquitectura, calidad, seguridad y proyectos aplicados. Sus evidencias deberán demostrar autonomía técnica para especificar, construir, evaluar y mantener software mediante agentes y sistemas que incorporan agentes.
 
 ## Correspondencia con el perfil del egresado
 
