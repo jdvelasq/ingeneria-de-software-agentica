@@ -8,6 +8,12 @@ La evaluación incluirá prácticas de especificación y arquitectura, ejercicio
 
 En las actividades de desarrollo asistido por agentes, se valorarán la definición de objetivos y criterios de aceptación, la selección y configuración de herramientas, la capacidad de supervisión, la verificación independiente del código y la identificación de limitaciones. La calidad del texto de las instrucciones dirigidas a agentes podrá analizarse cuando contribuya a resolver el problema, pero no constituirá por sí sola el criterio principal de desempeño.
 
+### Evidencias, niveles de logro y decisiones de mejora
+
+Cada RAP se evaluará mediante los RAA codificados y las evidencias indicadas en los capítulos 23 y 24. Los syllabus definirán los **niveles de dominio**, criterios de aceptación y condiciones de presentación de cada producto. El seguimiento combinará indicadores de desempeño —porcentaje de estudiantes que alcanza el nivel esperado, resultados de pruebas, calidad de artefactos y sustentaciones— con información cualitativa de las dificultades observadas y de la retroalimentación de estudiantes y docentes.
+
+Para evitar que la generación automática oculte carencias formativas, se exigirá evidencia de comprensión individual en actividades seleccionadas: explicación de arquitectura y código, interpretación de resultados de evaluación, análisis de defectos y justificación de decisiones de delegación. El equipo docente podrá ajustar actividades y apoyos cuando aparezcan brechas de aprendizaje, dejando registro de la evidencia que motivó el cambio y su resultado en la cohorte.
+
 ## Seguimiento y ajuste de los aprendizajes
 
 Las asignaturas establecerán evaluaciones diagnósticas, formativas y sumativas. Los diagnósticos identificarán brechas de programación, diseño y uso de herramientas; las actividades formativas permitirán corregir errores de razonamiento y ejecución; y las evaluaciones sumativas comprobarán el logro de los resultados previstos mediante artefactos y sustentaciones.
