@@ -20,7 +20,7 @@ La distribución preliminar de asignaturas y créditos se presenta a continuaci�
 | Proyecto Integrador | 2 | Obligatorio |
 | **Total propuesto** | **22** | **14 obligatorios y ocho elegibles** |
 
-La distribución original contiene también una referencia a 25 créditos y un valor diferente para el proyecto integrador. Esta inconsistencia deberá resolverse en el comité curricular. Si se mantuvieran 22 créditos durante 16 semanas, la dedicación promedio sería de 66 horas por semana; esta intensidad amerita una revisión de sostenibilidad para estudiantes y docentes antes de adoptar horarios.
+La propuesta de 22 créditos en 16 semanas supone una dedicación promedio de **66 horas por semana**, bajo la equivalencia de 48 horas de trabajo por crédito. Esta intensidad exige evaluar cuidadosamente su factibilidad académica, particularmente para profesionales en ejercicio. La aprobación curricular deberá conciliar los créditos, la distribución del trabajo directo e independiente y la disponibilidad horaria de estudiantes y docentes antes de establecer la programación definitiva.
 
 ## Actividades integradoras
 
