@@ -8,7 +8,7 @@ El programa podrá aprovechar capacidades de la Facultad de Minas en arquitectur
 
 ## Relevancia para el entorno regional y nacional
 
-El ecosistema de organizaciones de Medellín y Colombia que desarrollan o utilizan software enfrenta la necesidad de incorporar tecnologías de inteligencia artificial sin comprometer confiabilidad, seguridad o sostenibilidad de sus sistemas. La propuesta original identifica la transformación digital y la articulación con el sector productivo como fundamentos de pertinencia. La nueva especialización concreta esa aspiración al centrarse en capacidades de ingeniería transferibles entre sectores: automatización supervisada de desarrollo y mantenimiento, integración de agentes en aplicaciones y evaluación de riesgos tecnológicos.
+El ecosistema de organizaciones de Medellín y Colombia que desarrollan o utilizan software enfrenta la necesidad de incorporar tecnologías de inteligencia artificial sin comprometer confiabilidad, seguridad o sostenibilidad de sus sistemas. La transformación digital y la articulación con el sector productivo sustentan la pertinencia de una formación centrada en capacidades de ingeniería transferibles entre sectores: automatización supervisada de desarrollo y mantenimiento, integración de agentes en aplicaciones y evaluación de riesgos tecnológicos.
 
 La justificación de demanda no debe confundirse con una estimación automática de empleos o de matrícula. Antes de la presentación institucional definitiva se requerirá contrastar esta pertinencia con consultas documentadas a empresas, egresados y asociaciones profesionales, además de identificar proyectos reales que puedan alimentar los laboratorios y trabajos integradores.
 
