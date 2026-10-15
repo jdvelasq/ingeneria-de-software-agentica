@@ -6,6 +6,21 @@ La implementación de la Especialización en Ingeniería de Software Agéntica s
 
 La nueva denominación y orientación curricular expresan una transformación del objeto de formación, con énfasis en ingeniería de software con agentes y en sistemas que incorporan agentes. Las decisiones institucionales deberán establecer si la transición se materializa mediante creación de un programa, modificación del existente, cierre de una oferta o una combinación de procedimientos, de acuerdo con la normativa aplicable.
 
+## Secuencia de apertura y validación
+
+La cohorte del nuevo plan se organizará en **dos semestres**. En el primero se ofertarán tres asignaturas obligatorias de cuatro créditos (12 créditos); en el segundo, dos elegibles de cuatro créditos y el Proyecto Integrador de cinco créditos (13 créditos). Antes de abrir inscripciones deberán verificarse admisión, suficiencia técnica y nivelación previa, aprobación de syllabus y matriz RAP–RAA, disponibilidad de profesores, laboratorios, servicios de IA y elegibles, y factibilidad financiera. La formulación del anteproyecto podrá comenzar en el primer semestre sin crear créditos adicionales.
+
+| Área de contraste entre planes | Criterio de evaluación de equivalencia |
+| --- | --- |
+| Requisitos, arquitectura y pruebas | Evidencia de RAA y profundidad, no coincidencia de denominaciones |
+| Desarrollo de software asistido por agentes | Capacidad verificable de especificar, supervisar y revisar cambios |
+| Ingeniería de sistemas agénticos | Arquitectura, herramientas, integración, autonomía y observabilidad |
+| Evaluación, seguridad y confiabilidad | Protocolos reproducibles, pruebas adversariales, permisos y recuperación |
+| Proyecto Integrador | Alcance, créditos, producto y sustentación, sujetos a decisión individual |
+| Elegibles | Requisitos, cupos, oferta y homologación institucional, sin automatismos |
+
+Las equivalencias son **criterios de análisis**, no homologaciones concedidas. Los casos particulares corresponderán a los órganos competentes.
+
 ## Reconocimiento de créditos y equivalencias
 
 Se elaborará una tabla de correspondencias entre asignaturas y actividades académicas de los planes involucrados. El reconocimiento de créditos no dependerá únicamente de la semejanza de nombres: deberá comprobarse la equivalencia de contenidos, competencias, resultados de aprendizaje y carga académica. Las solicitudes individuales se tramitarán mediante los mecanismos y autoridades definidos por la Universidad.
