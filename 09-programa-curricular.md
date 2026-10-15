@@ -12,17 +12,17 @@ El plan de estudios se organizará en actividades académicas articuladas con un
 
 La organización académica contemplará sesiones sincrónicas de orientación, laboratorios guiados, revisión técnica de proyectos y sustentaciones, complementadas con actividades independientes de lectura, implementación y evaluación. En los espacios remotos se dispondrá de mecanismos de acceso a entornos de desarrollo, repositorios y registros de experimentación. La definición institucional de modalidad deberá distinguir la presencia sincrónica mediada por TIC, el trabajo dirigido y el trabajo autónomo, con sus respectivas cargas horarias. No se adopta automáticamente un porcentaje de sincronicidad establecido en documentos de otros programas.
 
-La programación propuesta de 16 semanas y 25 créditos representa una carga estimada de 1.200 horas académicas, equivalentes a 75 horas semanales bajo 48 horas por crédito. Su viabilidad exige una revisión explícita de la dedicación esperada, la intensidad de los bloques y las condiciones de los aspirantes, antes de fijar una oferta y un calendario definitivos.
+La programación propuesta de **dos semestres de 16 semanas cada uno** y 25 créditos representa **1.200 horas académicas** (48 horas por crédito), equivalentes a una dedicación media de **37,5 horas semanales** a lo largo de 32 semanas. El primer semestre suma 12 créditos y 576 horas (36 horas/semana); el segundo, 13 créditos y 624 horas (39 horas/semana). La carga sigue siendo intensiva y requiere validar su viabilidad para profesionales laboralmente activos.
 
 ## Modalidad y duración
 
-El programa se proyecta con una duración de **un semestre académico de 16 semanas**, mediante actividades académicas mediadas por TIC y franjas de interacción programadas. Su implementación estará condicionada a la evaluación de la carga crediticia, el trabajo independiente, la posibilidad de desarrollar proyectos reales y los requisitos institucionales de calidad.
+El programa se propone con una duración de **dos semestres académicos**, de 16 semanas de referencia cada uno, mediante actividades académicas con mediación TIC y franjas de interacción programadas. Su implementación estará condicionada a la evaluación de la carga crediticia, el trabajo independiente, la posibilidad de desarrollar proyectos reales y los requisitos institucionales de calidad.
 
 La modalidad deberá definirse conforme a la nomenclatura y regulación universitaria aplicable, diferenciando claramente sesiones sincrónicas, trabajo guiado y trabajo independiente. No se debe afirmar que una modalidad o proporción de sesiones tiene reconocimiento normativo automático sin los soportes correspondientes.
 
 La organización de las actividades académicas combinará sesiones sincrónicas de laboratorio, revisión y sustentación con trabajo independiente documentado en repositorios y entornos de desarrollo. La modalidad deberá precisar horas de interacción y de trabajo autónomo conforme a las disposiciones institucionales. No se trasladará automáticamente un porcentaje de presencialidad remota utilizado en otros programas.
 
-La duración proyectada de 16 semanas implica, para **25 créditos de 48 horas**, un total de **1.200 horas** y una dedicación promedio de **75 horas semanales**. Por ello, la programación y modalidad requerirán análisis de factibilidad específico para profesionales en ejercicio antes de su aprobación.
+La duración propuesta de **32 semanas** implica **1.200 horas para 25 créditos** y una dedicación promedio de **37,5 horas semanales**. Se considerará como hipótesis de formulación la modalidad **presencial con mediación TIC**, sin presumir su aprobación. Existe un precedente de especialización de 25 créditos y dos semestres en la Facultad de Minas, que no constituye autorización para el presente programa. Fuente: [Facultad de Minas, Especialización en Gestión de Proyectos de Inversión Pública](https://minas.medellin.unal.edu.co/especializacion-en-gestion-de-proyectos-de-inversion-publica).
 
 ## Principios de organización curricular
 
