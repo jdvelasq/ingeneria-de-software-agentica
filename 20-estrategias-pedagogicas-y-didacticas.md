@@ -14,6 +14,12 @@ El enfoque incluirá **aula invertida** mediante lecturas, demostraciones y mate
 
 Las revisiones de código, las sustentaciones técnicas, las discusiones de arquitectura y las evaluaciones entre pares promoverán la comprensión del producto más allá de su funcionamiento aparente. En las tareas realizadas con agentes, los estudiantes registrarán la finalidad de la delegación, las restricciones, los permisos utilizados, las modificaciones efectuadas y la evidencia de verificación. La retroalimentación docente valorará tanto la calidad del resultado como la capacidad de explicar el proceso seguido.
 
+## Laboratorios de evaluación reproducible y seguridad
+
+La pedagogía incluirá laboratorios de **evaluación reproducible** con conjuntos de tareas, condiciones iniciales, métricas, repeticiones y análisis de variabilidad; ejercicios de **red teaming** de sistemas propios y aislados, amenazas de inyección de instrucciones, revisión de permisos, límites de autonomía y manejo seguro de herramientas; y **auditoría cruzada** de código, trazas y evidencias entre equipos. Las pruebas deberán considerar acciones y efectos, no solo la plausibilidad de respuestas.
+
+El **Proyecto Integrador** se organizará en hitos: (1) problema, requisitos y arquitectura; (2) construcción e integración; (3) evaluación y análisis de fallos; (4) seguridad, observabilidad y recuperación; y (5) documentación y defensa individual. La formación técnica empleará herramientas de distintos proveedores o alternativas abiertas y locales, registrando costos y versiones para facilitar la reproducción. Las actividades adversariales se harán únicamente sobre laboratorios autorizados y entornos controlados. Referentes: [Stanford CS329Z](https://cs329z.stanford.edu/) y [NIST SP 800-218A](https://csrc.nist.gov/pubs/sp/800/218/a/final).
+
 ## Recursos y entornos de aprendizaje mediados por TIC
 
 El programa dispondrá de entornos de programación y control de versiones, herramientas de integración continua, ambientes de ejecución y evaluación de agentes, y servicios para el trabajo colaborativo. Los laboratorios podrán combinar herramientas locales y remotas, atendiendo a los requerimientos de cada actividad, la disponibilidad institucional y las condiciones de seguridad de la información. Se privilegiarán prácticas reproducibles, registros de ejecución y mecanismos de aislamiento de credenciales y datos sensibles.
