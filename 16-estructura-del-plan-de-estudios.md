@@ -12,6 +12,10 @@ El proyecto de cinco créditos es el espacio de integración longitudinal de la 
 
 La **flexibilidad curricular** no se reduce al porcentaje elegible: comprende selección de problemas de aplicación, posibilidad de trabajar con diferentes tecnologías y articulación con otras ofertas de posgrado. La **interdisciplinariedad** se materializa en proyectos de sectores distintos que requieren colaboración entre especialistas en software, usuarios de dominio y profesionales de áreas complementarias, sin reducir las exigencias técnicas del perfil de egreso.
 
+La estructura de **25 créditos** comprende **17 obligatorios (68 %)** y **ocho elegibles (32 %)**. Los obligatorios corresponden a tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco. Los elegibles permiten profundizar en áreas afines sin que el logro de los resultados de aprendizaje dependa de la elección particular del estudiante.
+
+El **Proyecto Integrador** constituye un espacio longitudinal de aplicación profesional, no una tesis. Sus cinco créditos respaldan la especificación, arquitectura, construcción, verificación y sustentación de un sistema funcional, incluyendo evidencia de la actuación de agentes y de la supervisión humana. La relación entre los componentes y los resultados de aprendizaje se verificará en la matriz RAP–RAA.
+
 ## Componentes y actividades académicas
 
 La estructura deberá asegurar una secuencia coherente desde fundamentos y desarrollo con agentes hacia arquitectura e integración de sistemas agénticos, evaluación, seguridad y operación verificable. El proyecto integrador articulará los aprendizajes durante el período académico. La definición final de asignaturas y su distribución entre componentes obligatorios y elegibles deberá derivarse de los resultados de aprendizaje y no de la disponibilidad circunstancial de herramientas.
