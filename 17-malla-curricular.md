@@ -18,9 +18,11 @@ La distribución preliminar de asignaturas y créditos se presenta a continuaci�
 | Asignatura elegible I | 4 | Elegible |
 | Asignatura elegible II | 4 | Elegible |
 | Proyecto Integrador | 2 | Obligatorio |
-| **Total propuesto** | **22** | **14 obligatorios y ocho elegibles** |
+| **Subtotal distribuido** | **22** | **14 obligatorios y ocho elegibles** |
+| Créditos por distribuir | 3 | Componente por definir |
+| **Total del programa** | **25** | **Distribución definitiva pendiente** |
 
-La propuesta de 22 créditos en 16 semanas supone una dedicación promedio de **66 horas por semana**, bajo la equivalencia de 48 horas de trabajo por crédito. Esta intensidad exige evaluar cuidadosamente su factibilidad académica, particularmente para profesionales en ejercicio. La aprobación curricular deberá conciliar los créditos, la distribución del trabajo directo e independiente y la disponibilidad horaria de estudiantes y docentes antes de establecer la programación definitiva.
+El plan de **25 créditos** en 16 semanas supondría una dedicación promedio de **75 horas por semana**, bajo la equivalencia de 48 horas de trabajo por crédito. Los tres créditos aún no distribuidos deberán incorporarse a una o varias actividades académicas mediante decisión curricular, sin presumir su destino. Esta intensidad exige evaluar cuidadosamente su factibilidad académica, particularmente para profesionales en ejercicio. La aprobación curricular deberá conciliar los créditos, la distribución del trabajo directo e independiente y la disponibilidad horaria de estudiantes y docentes antes de establecer la programación definitiva.
 
 ## Actividades integradoras
 
