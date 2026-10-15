@@ -2,7 +2,7 @@
 
 ## Líneas de investigación y desarrollo tecnológico
 
-La especialización tendrá una orientación aplicada: los proyectos y actividades formativas deberán apoyarse en capacidades de investigación y desarrollo pertinentes, sin convertir el programa en una maestría de investigación. A partir de las áreas mencionadas en el documento original, resultan pertinentes las siguientes líneas de articulación académica:
+La especialización tendrá una orientación aplicada: los proyectos y actividades formativas deberán apoyarse en capacidades de investigación y desarrollo pertinentes, sin convertir el programa en una maestría de investigación. Las siguientes áreas permitirán articular las capacidades académicas de la Facultad con el desarrollo tecnológico asociado al programa:
 
 - **Ingeniería y calidad de software:** métodos de especificación, arquitectura, construcción, pruebas, verificación, mantenimiento y evolución de sistemas con intervención de agentes.
 - **Lenguajes computacionales e interacción con agentes:** representación de instrucciones y restricciones, ingeniería de contexto, herramientas, interfaces y manejo de información necesaria para ejecutar tareas.
@@ -14,7 +14,7 @@ Estas líneas describen ámbitos de trabajo académico posibles, pero **no deben
 
 ## Vinculación con grupos y proyectos
 
-El documento original identifica capacidades vinculadas con grupos como *Calidad de Software*, *Lenguajes Computacionales* y *SENDA R&D Group*, así como ámbitos complementarios de inteligencia artificial y analítica de datos. Corresponde a la formulación definitiva comprobar la vigencia de estos grupos, sus proyectos, profesores vinculados y recursos disponibles. El diagnóstico también debe precisar cuáles de sus resultados ofrecen experiencia directamente transferible a sistemas agénticos.
+En la Facultad se identifican capacidades vinculadas con grupos como *Calidad de Software*, *Lenguajes Computacionales* y *SENDA R&D Group*, así como ámbitos complementarios de inteligencia artificial y analítica de datos. Corresponde a la formulación definitiva comprobar la vigencia de estos grupos, sus proyectos, profesores vinculados y recursos disponibles. El diagnóstico también debe precisar cuáles de sus resultados ofrecen experiencia directamente transferible a sistemas agénticos.
 
 Los proyectos integradores podrán vincularse a problemas de investigación aplicada y desarrollo tecnológico cuando existan tutores, recursos y condiciones de acceso a sistemas o datos. Se priorizarán iniciativas que permitan evaluar reproduciblemente productos de software completos, evitando limitar la formación a demostraciones aisladas de herramientas.
 
