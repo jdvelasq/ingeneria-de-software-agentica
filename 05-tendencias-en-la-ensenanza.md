@@ -6,6 +6,12 @@ La enseñanza de la ingeniería de software incorpora progresivamente herramient
 
 El programa adoptará aprendizaje basado en retos y proyectos, laboratorios guiados y mecanismos de nivelación técnica. Estas estrategias estarán orientadas a formular especificaciones verificables, comprender código, evaluar decisiones arquitectónicas y mantener el control de las herramientas y agentes empleados, en lugar de privilegiar la eficiencia aparente de las instrucciones.
 
+## Referentes internacionales actuales de enseñanza de ingeniería agéntica
+
+El curso [Stanford CS329Z, *Engineering AI Agents* (2026)](https://cs329z.stanford.edu/) integra sistemas compuestos, recuperación de información, herramientas, bucles agénticos, evaluaciones y seguridad, con atención a permisos, aislamiento y supervisión humana. El certificado [*Software Engineering with AI* de Carnegie Mellon](https://www.cmu.edu/online/software-engineering-ai) articula dos competencias convergentes: uso de IA a través del ciclo de vida de desarrollo y construcción de sistemas habilitados por IA. Por su parte, el [plan 2026–27 de *AI Engineering* de Carnegie Mellon](https://www.cmu.edu/ini/academics/msaie-is/curriculum_ms38.html) muestra la relevancia de sistemas y herramientas, seguridad y confiabilidad.
+
+Estos cursos y programas son **referentes de contenido y evaluación**, no equivalentes directos de créditos o títulos colombianos. Respaldan una pedagogía que exige artefactos de ingeniería, conjuntos de evaluación reproducibles, análisis de fallos y defensa técnica, en lugar de demostraciones aisladas de una herramienta.
+
 ## Estrategias de aprendizaje activo y enseñanza con agentes
 
 La formación práctica deberá organizarse alrededor de problemas y repositorios cuyo estado inicial, requisitos, pruebas y criterios de aceptación estén definidos. Los estudiantes podrán resolver actividades primero mediante procedimientos convencionales y luego mediante agentes, o comparar variantes de delegación y supervisión. Esta comparación ayudará a distinguir cuándo la automatización aporta valor y cuándo introduce complejidad o riesgos adicionales.
