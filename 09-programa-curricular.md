@@ -8,7 +8,7 @@ Se propone la denominación **Especialización en Ingeniería de Software Agént
 
 La propuesta se formula para la Universidad Nacional de Colombia, Sede Medellín, Facultad de Minas, con participación académica del Departamento de Ciencias de la Computación y de la Decisión, de acuerdo con la organización académica de la Facultad. Los datos oficiales de área curricular, unidad académica responsable, actos administrativos, registro y condiciones de apertura deberán ratificarse en la documentación institucional.
 
-El plan de estudios se organizará en actividades académicas articuladas con un proyecto integrador transversal. El programa tendrá **25 créditos académicos**, conforme a la definición institucional comunicada. La distribución entre asignaturas obligatorias, elegibles y proyecto integrador deberá ajustarse a este total en el plan de estudios.
+El plan de estudios se organizará en actividades académicas articuladas con un proyecto integrador transversal. El programa tendrá **25 créditos académicos**, conforme a la definición institucional comunicada. La distribución propuesta comprende **17 créditos obligatorios** —tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco— y **ocho créditos elegibles** —dos asignaturas de cuatro créditos—, para un total de 25.
 
 ## Modalidad y duración
 
