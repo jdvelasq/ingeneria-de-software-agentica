@@ -2,9 +2,9 @@
 
 ## Número total de créditos del plan de estudios
 
-La Especialización en Ingeniería de Software Agéntica se estructura preliminarmente en **22 créditos**, distribuidos entre asignaturas obligatorias, asignaturas elegibles y un proyecto integrador transversal. La definición definitiva de la carga académica y su distribución requerirá validación curricular e institucional, en correspondencia con los objetivos y resultados de aprendizaje.
+La Especialización en Ingeniería de Software Agéntica tendrá **25 créditos académicos**, distribuidos entre asignaturas obligatorias, asignaturas elegibles y un proyecto integrador transversal. La definición definitiva de la carga académica y su distribución requerirá validación curricular e institucional, en correspondencia con los objetivos y resultados de aprendizaje.
 
-Se propone una duración de **un semestre académico de 16 semanas**, sujeta a revisión de factibilidad. Bajo una equivalencia de 48 horas de dedicación por crédito, 22 créditos representan 1.056 horas, equivalentes a un promedio de **66 horas semanales**. Dado que el programa está dirigido también a profesionales en ejercicio, será necesario evaluar alternativas de distribución de actividades, modalidades de acompañamiento y exigencias reales del proyecto integrador.
+Se propone una duración de **un semestre académico de 16 semanas**, sujeta a revisión de factibilidad. Bajo una equivalencia de 48 horas de dedicación por crédito, 25 créditos representan 1.200 horas, equivalentes a un promedio de **75 horas semanales**. Dado que el programa está dirigido también a profesionales en ejercicio, será necesario evaluar alternativas de distribución de actividades, modalidades de acompañamiento y exigencias reales del proyecto integrador.
 
 ## Componentes y actividades académicas
 
@@ -16,10 +16,10 @@ Se propone un componente obligatorio de prácticas de ingeniería de software, d
 
 Se propone reservar espacio electivo para profundizaciones complementarias, sin comprometer el logro de los resultados obligatorios. La asignatura *Productos de Datos* de la Especialización en Analítica podrá ser considerada como optativa compartida para estudiantes interesados en DataOps/MLOps, previa verificación de créditos, requisitos, cupos y normativa institucional.
 
-El porcentaje definitivo de flexibilidad se calculará cuando estén aprobados el total de créditos y la oferta obligatoria. Una distribución preliminar de **14 créditos obligatorios y ocho elegibles** ofrece flexibilidad para trayectorias complementarias, pero su adopción definitiva dependerá de verificar la cobertura de los resultados de aprendizaje obligatorios.
+El porcentaje definitivo de flexibilidad se calculará cuando estén aprobados el total de créditos y la oferta obligatoria. La estructura preliminar identifica **14 créditos obligatorios y ocho elegibles**, que suman 22 créditos. **Quedan tres créditos por distribuir** para completar el total de 25. Su asignación y la proporción definitiva de flexibilidad deberán definirse mediante la revisión curricular, asegurando la cobertura de todos los resultados de aprendizaje obligatorios.
 
 ## Carácter interdisciplinario del plan de estudios
 
 El carácter interdisciplinario se expresará mediante problemas de aplicación de diferentes sectores y trabajo articulado con profesionales de analítica, inteligencia artificial, ciberseguridad e infraestructura. Esta apertura requiere requisitos de ingreso adecuados para sostener el nivel avanzado de ingeniería y mecanismos de nivelación que no desplacen los contenidos propios del posgrado.
 
-**Decisiones pendientes:** número total de créditos, duración, asignaturas obligatorias, porcentaje electivo, intensidad horaria y viabilidad de la modalidad.
+**Decisiones pendientes:** distribución de los 25 créditos, duración, asignaturas obligatorias, porcentaje electivo, intensidad horaria y viabilidad de la modalidad.
