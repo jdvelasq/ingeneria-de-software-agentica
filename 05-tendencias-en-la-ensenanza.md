@@ -1,15 +1,21 @@
-# Tendencias en la enseñanza de la ingeniería de software agéntica
-
-<!-- Esquema de subsecciones basado en el documento de referencia de la Maestría en Ingeniería – Analítica; los encabezados que no aparecen allí de forma expresa son adaptaciones editoriales para la especialización. Pendiente de redacción. -->
+# Tendencias en la enseñanza
 
 ## Innovación curricular y tendencias de formación
 
-<!-- Pendiente de desarrollo. -->
+La enseñanza de la ingeniería de software incorpora progresivamente herramientas de inteligencia artificial generativa y agentes de programación. La cuestión curricular no consiste únicamente en permitir su uso, sino en determinar qué conocimientos deben seguir demostrando los estudiantes por sí mismos y qué capacidades deben adquirir para dirigir, controlar y evaluar procesos automatizados. Los fundamentos de requisitos, diseño, construcción, pruebas, calidad y mantenimiento, recogidos en [SWEBOK v4.0](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf), ofrecen un marco estable para integrar estas tecnologías.
+
+La propuesta original adoptaba aprendizaje basado en retos y proyectos, laboratorios guiados y nivelación técnica. Estas decisiones ofrecen una base aprovechable para la nueva especialización. Su actualización debe trasladar el énfasis desde la eficiencia en el uso de instrucciones hacia la capacidad de formular especificaciones verificables, comprender código, evaluar decisiones arquitectónicas y mantener el control de las herramientas y agentes empleados.
 
 ## Estrategias de aprendizaje activo y enseñanza con agentes
 
-<!-- Pendiente de desarrollo. -->
+La formación práctica deberá organizarse alrededor de problemas y repositorios cuyo estado inicial, requisitos, pruebas y criterios de aceptación estén definidos. Los estudiantes podrán resolver actividades primero mediante procedimientos convencionales y luego mediante agentes, o comparar variantes de delegación y supervisión. Esta comparación ayudará a distinguir cuándo la automatización aporta valor y cuándo introduce complejidad o riesgos adicionales.
+
+El acompañamiento docente es imprescindible para evitar que la aparente completitud de una solución oculte deficiencias de comprensión. Resultan pertinentes las revisiones de código, las defensas técnicas, la explicación de decisiones, la depuración guiada, la evaluación entre pares y las bitácoras de interacción con herramientas. El aprendizaje debe promover también la capacidad de suspender o corregir una ejecución automatizada cuando sus resultados sean inconsistentes.
 
 ## Formación práctica, evaluación y vinculación con el sector productivo
 
-<!-- Pendiente de desarrollo. -->
+El proyecto integrador constituye el mecanismo principal para demostrar la articulación entre fundamentos y competencias agénticas. Deberá incluir especificación, arquitectura, implementación, pruebas automatizadas, registro de decisiones, evaluación de agentes y discusión de los riesgos del producto. Cuando sea factible, los proyectos se vincularán con necesidades reales de organizaciones públicas, empresas o grupos de investigación, sin comprometer confidencialidad ni seguridad.
+
+La metodología mediada por TIC propuesta originalmente puede favorecer laboratorios colaborativos, control de versiones y revisión sincrónica de entregables. Sin embargo, la carga de créditos, la dedicación independiente y la disponibilidad de recursos deben verificarse antes de definir un modelo operativo. Las herramientas específicas podrán actualizarse por cohorte, mientras que los resultados de aprendizaje y sus criterios de evaluación deberán mantenerse explícitos, estables y auditables.
+
+La pertinencia de esta enseñanza dependerá de evidenciar competencias transferibles y no solo familiaridad con sistemas comerciales que pueden cambiar durante la vigencia del programa.
