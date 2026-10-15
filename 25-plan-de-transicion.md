@@ -22,6 +22,8 @@ La transición deberá contemplar la programación de las actividades necesarias
 
 La implementación comprenderá la aprobación institucional del programa y del plan de estudios, la expedición de los actos requeridos, la definición de responsabilidades docentes, la preparación de laboratorios y recursos, la aprobación de syllabus y la programación académica. La apertura de cohortes dependerá de que se cumplan las condiciones de calidad y operación establecidas por la Universidad.
 
+La programación de la cohorte deberá considerar el carácter intensivo de la oferta y la coordinación de cupos en asignaturas obligatorias y elegibles. Podrá contemplarse un proceso institucional de inscripción asistida para facilitar la trayectoria del estudiante, sin presumir preinscripción obligatoria ni garantía de cupo no autorizadas. La programación de asignaturas compartidas requerirá acuerdos entre unidades responsables y verificación de sus condiciones efectivas de oferta.
+
 El seguimiento incluirá indicadores de admisión, matrícula, permanencia, aprobación de asignaturas, resultados de aprendizaje y culminación de proyectos integradores. Se revisarán también la suficiencia docente, la disponibilidad de herramientas y los costos de operación, así como las oportunidades de articulación con otros posgrados.
 
 Las fechas, responsables, recursos y mecanismos específicos se consignarán en el cronograma de implementación una vez se definan las decisiones institucionales pertinentes. Este plan busca asegurar una transición académicamente coherente, administrativamente viable y transparente para la comunidad universitaria.
