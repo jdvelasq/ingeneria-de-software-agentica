@@ -12,13 +12,13 @@ Al finalizar la Especialización en Ingeniería de Software Agéntica, el egresa
 - **RAP 6. Seguridad y responsabilidad profesional:** identificar, modelar y mitigar riesgos de seguridad, privacidad y uso de recursos asociados con agentes, datos, herramientas y servicios; implementar autorización, mínimo privilegio, aislamiento, trazabilidad, protección de información y supervisión humana; y justificar límites de autonomía.
 - **RAP 7. Proyecto aplicado:** desarrollar y sustentar una solución integrada a un problema real, comunicando decisiones de ingeniería, evidencias de evaluación, limitaciones y criterios de sostenibilidad.
 
-Los resultados de aprendizaje se orientan a productos funcionales, arquitectura, calidad, seguridad y proyectos aplicados. Sus evidencias deberán demostrar autonomía técnica para especificar, construir, evaluar y mantener software mediante agentes y sistemas que incorporan agentes.
+Los resultados de aprendizaje se orientan a productos funcionales, arquitectura, calidad, seguridad y proyectos aplicados. Sus evidencias demostrarán autonomía técnica para especificar, construir, evaluar y mantener software mediante agentes y sistemas que incorporan agentes.
 
 ## Correspondencia con el perfil del egresado
 
 Los RAP 1 y 2 sustentan la capacidad de dirigir el desarrollo asistido por agentes; el RAP 3 verifica el diseño y construcción de sistemas que incorporan agentes; los RAP 4 y 5 aseguran que la solución pueda evaluarse, operar y evolucionar; el RAP 6 transversaliza la responsabilidad profesional; y el RAP 7 integra las capacidades en un producto aplicado.
 
-Cada RAP deberá asociarse a evidencias observables y rúbricas pertinentes, evitando evaluar únicamente el uso de una herramienta o el número de instrucciones enviadas a un modelo. La matriz RAP–RAA determinará su distribución entre asignaturas, y el plan de evaluación establecerá niveles de dominio compatibles con el tiempo y los créditos del programa.
+Cada RAP se asociará a evidencias observables y rúbricas pertinentes, evitando evaluar únicamente el uso de una herramienta o el número de instrucciones enviadas a un modelo. La matriz RAP–RAA determinará su distribución entre asignaturas, y el plan de evaluación establecerá niveles de dominio compatibles con el tiempo y los créditos del programa.
 
 ## Alineación con las áreas de conocimiento de SWEBOK v4
 

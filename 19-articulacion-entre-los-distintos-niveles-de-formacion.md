@@ -8,7 +8,7 @@ Esta articulación no elimina la necesidad de establecer requisitos mínimos de 
 
 ## Articulación con otros posgrados
 
-La especialización deberá diferenciarse de las ofertas orientadas principalmente al desarrollo de modelos de inteligencia artificial y productos analíticos. Su núcleo obligatorio atenderá el ciclo de vida del software y la ingeniería de sistemas agénticos; las necesidades complementarias podrán cubrirse mediante asignaturas elegibles de otros programas.
+La especialización se diferenciará de las ofertas orientadas principalmente al desarrollo de modelos de inteligencia artificial y productos analíticos. Su núcleo obligatorio atenderá el ciclo de vida del software y la ingeniería de sistemas agénticos; las necesidades complementarias podrán cubrirse mediante asignaturas elegibles de otros programas.
 
 En particular, *Productos de Datos*, de la Especialización en Analítica, constituye una alternativa para estudiantes que requieran conocimientos de DataOps/MLOps. Su posible inclusión como optativa compartida deberá verificarse en términos de número de créditos, programación, prerrequisitos, cupos y objetivos formativos, sin asumir equivalencias automáticas. Esta articulación permitiría aprovechar recursos existentes y evitar duplicaciones entre programas.
 
@@ -20,6 +20,6 @@ La especialización mantendrá como obligatorias las capacidades de ingeniería 
 
 El programa promoverá posibilidades de inscripción cruzada, movilidad y homologación con otros posgrados como instrumentos de flexibilidad, de acuerdo con los procedimientos institucionales y las condiciones de reconocimiento aplicables a cada caso. La coordinación deberá gestionar la disponibilidad de cupos; no corresponde declarar garantías de inscripción que no estén formalmente respaldadas.
 
-La propuesta de articulación debe priorizar la continuidad académica del estudiante y la correspondencia real de contenidos y aprendizajes, no simplemente la similitud de denominaciones entre cursos. Los capítulos del plan de estudios y de transición deberán concretar las condiciones operativas conforme a las decisiones institucionales que finalmente se adopten.
+La propuesta de articulación priorizará la continuidad académica del estudiante y la correspondencia real de contenidos y aprendizajes, no simplemente la similitud de denominaciones entre cursos. Los capítulos del plan de estudios y de transición concretarán las condiciones operativas conforme a las decisiones institucionales que finalmente se adopten.
 
 En los convenios con instituciones extranjeras, el [Decreto 529 de 2024](https://www.mineducacion.gov.co/1780/articles-400474_decreto_0529_abril_2024.pdf) dispone, según el texto consultado, que solo la institución colombiana puede ser titular del registro calificado y que solo la institución titular puede hacer la publicidad del programa. Cualquier titulación conjunta o doble titulación deberá estructurarse y verificarse con la normativa vigente y con las instancias universitarias competentes.

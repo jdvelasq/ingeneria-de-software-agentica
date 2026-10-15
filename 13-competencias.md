@@ -20,4 +20,4 @@ El egresado actuará con responsabilidad profesional sobre el software construid
 
 Trabajará colaborativamente con profesionales de diferentes disciplinas, comunicará límites y riesgos de las soluciones propuestas y actualizará sus competencias de manera autónoma. Adoptará una postura crítica frente a herramientas y proveedores, priorizando estándares abiertos, interoperabilidad y necesidades reales de las organizaciones.
 
-Las competencias aquí descritas constituyen una base para la formulación de resultados de aprendizaje observables. Su alcance definitivo deberá corresponder a la carga académica y a las actividades que integren el plan de estudios aprobado.
+Las competencias aquí descritas constituyen una base para la formulación de resultados de aprendizaje observables. Su alcance definitivo corresponderá a la carga académica y a las actividades que integren el plan de estudios aprobado.

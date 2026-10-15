@@ -24,7 +24,7 @@ La fortaleza de este diseño deberá demostrarse mediante la correspondencia ent
 
 El especialista podrá contribuir a que las organizaciones adopten agentes de forma responsable mediante especificaciones verificables, mecanismos de control humano, límites de autorización, trazabilidad, pruebas y procedimientos de recuperación. El valor social del programa reside en promover soluciones de software confiables y prácticas que reconozcan efectos sobre trabajadores, usuarios y entidades que dependen de estos sistemas.
 
-El programa deberá incorporar evaluación ética y técnica de riesgos, protección de datos, seguridad de la información y accesibilidad del software. Estos criterios constituyen responsabilidades de ingeniería y no componentes accesorios añadidos al final del proceso. Una propuesta pertinente debe formar profesionales capaces de justificar tanto la decisión de incorporar agentes como los casos en que resulta preferible mantener procedimientos convencionales.
+El programa incorporará evaluación ética y técnica de riesgos, protección de datos, seguridad de la información y accesibilidad del software. Estos criterios constituyen responsabilidades de ingeniería y no componentes accesorios añadidos al final del proceso. Una propuesta pertinente debe formar profesionales capaces de justificar tanto la decisión de incorporar agentes como los casos en que resulta preferible mantener procedimientos convencionales.
 
 ## Ruta de posicionamiento regional y criterios verificables
 

@@ -16,4 +16,4 @@ La especialización se sitúa en el campo de la **ingeniería de software**. No 
 
 La operación, el despliegue, la observabilidad y la recuperación ante fallos se tratarán como responsabilidades propias de la ingeniería del sistema agéntico y de su ciclo de vida. La especialización podrá articularse con asignaturas electivas de otros programas cuando se requieran capacidades complementarias de DataOps o MLOps.
 
-La coherencia disciplinar exige que las competencias y actividades académicas puedan vincularse de forma explícita con este objeto de estudio. Deberá evitarse la incorporación de tecnologías simplemente por su actualidad comercial cuando no contribuyan a especificar, diseñar, construir, evaluar o mantener sistemas de software agénticos.
+La coherencia disciplinar exige que las competencias y actividades académicas puedan vincularse de forma explícita con este objeto de estudio. La propuesta evitará incorporar tecnologías simplemente por su actualidad comercial cuando no contribuyan a especificar, diseñar, construir, evaluar o mantener sistemas de software agénticos.

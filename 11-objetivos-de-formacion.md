@@ -22,4 +22,4 @@ Formar especialistas capaces de **especificar, diseñar, construir, integrar, ve
 
 8. Evaluar críticamente la evolución de herramientas, modelos y patrones de ingeniería agéntica, seleccionando tecnologías según las necesidades y restricciones del problema y no por dependencia de proveedores específicos.
 
-Los objetivos de formación se concretarán en resultados de aprendizaje observables, verificados mediante actividades académicas y proyectos integradores. La evaluación deberá demostrar tanto la capacidad de construir software mediante agentes como la de diseñar sistemas agénticos seguros, mantenibles y sujetos a supervisión profesional.
+Los objetivos de formación se concretarán en resultados de aprendizaje observables, verificados mediante actividades académicas y proyectos integradores. La evaluación demostrará tanto la capacidad de construir software mediante agentes como la de diseñar sistemas agénticos seguros, mantenibles y sujetos a supervisión profesional.
