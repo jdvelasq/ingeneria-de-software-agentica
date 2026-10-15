@@ -12,6 +12,10 @@ El ecosistema de organizaciones de Medellín y Colombia que desarrollan o utiliz
 
 La justificación de demanda no debe confundirse con una estimación automática de empleos o de matrícula. Antes de la presentación institucional definitiva se requerirá contrastar esta pertinencia con consultas documentadas a empresas, egresados y asociaciones profesionales, además de identificar proyectos reales que puedan alimentar los laboratorios y trabajos integradores.
 
+La pertinencia institucional del programa también se deriva de la complementariedad entre las ofertas de posgrado de la Facultad. La especialización aporta formación especializada en construcción, evaluación y evolución de software con agentes, mientras que los programas de Inteligencia Artificial y Analítica conservan sus énfasis respectivos en modelos y productos de datos. La organización de un núcleo propio de **17 créditos obligatorios** y **ocho créditos elegibles** facilita aprovechar capacidades docentes y asignaturas compartidas, sin duplicar como requisito la formación en DataOps o MLOps.
+
+La fortaleza de este diseño deberá demostrarse mediante la correspondencia entre asignaturas, resultados de aprendizaje y necesidades profesionales, así como mediante la disponibilidad comprobable de docentes, infraestructura y proyectos integradores. El carácter interdisciplinario se verificará a través de problemas y colaboraciones reales, no solamente por la diversidad de procedencias de los aspirantes.
+
 ## Relevancia profesional y social
 
 El especialista podrá contribuir a que las organizaciones adopten agentes de forma responsable mediante especificaciones verificables, mecanismos de control humano, límites de autorización, trazabilidad, pruebas y procedimientos de recuperación. El valor social del programa reside en promover soluciones de software confiables y prácticas que reconozcan efectos sobre trabajadores, usuarios y entidades que dependen de estos sistemas.
