@@ -4,7 +4,26 @@
 
 Los resultados de aprendizaje de las actividades académicas (RAA) traducirán los resultados de aprendizaje del programa (RAP) en desempeños observables y evaluables dentro de cada asignatura. La formulación definitiva se incorporará a los respectivos programas de asignatura y deberá guardar correspondencia con su intensidad horaria, contenidos, metodologías y evaluación.
 
-Como orientación inicial se plantean los siguientes resultados:
+Los siguientes **RAA propuestos** permiten identificar evidencias concretas y sostener la trazabilidad con los siete RAP. Sus códigos se emplean también en el capítulo 24.
+
+| Actividad académica | Código | Resultado de aprendizaje de la actividad |
+| --- | --- | --- |
+| Prácticas de Ingeniería de Software | PIS-1 | Formular requisitos, restricciones y criterios de aceptación verificables a partir de un problema de software. |
+| Prácticas de Ingeniería de Software | PIS-2 | Diseñar, implementar y justificar componentes y decisiones de arquitectura aplicando principios de mantenibilidad y seguridad. |
+| Prácticas de Ingeniería de Software | PIS-3 | Construir y ejecutar pruebas, interpretar defectos y documentar acciones de corrección y evolución del producto. |
+| Desarrollo de Software Asistido por Agentes | DAA-1 | Descomponer un problema en tareas delegables y establecer contexto, herramientas, permisos y criterios de supervisión. |
+| Desarrollo de Software Asistido por Agentes | DAA-2 | Ejecutar y supervisar un flujo de desarrollo con agentes, registrando acciones y verificando los cambios mediante revisión y pruebas. |
+| Desarrollo de Software Asistido por Agentes | DAA-3 | Evaluar la calidad, riesgos y costos de una solución obtenida con agentes frente a criterios de aceptación explícitos. |
+| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-1 | Diseñar una arquitectura con agentes, interfaces con herramientas, mecanismos de estado, memoria y coordinación. |
+| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-2 | Integrar componentes agénticos con servicios y fuentes de información aplicando restricciones de acceso y control de autonomía. |
+| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-3 | Instrumentar y evaluar el comportamiento del sistema mediante pruebas, trazas, métricas, gestión de fallos y controles de seguridad. |
+| Proyecto Integrador | PI-1 | Formular y justificar un problema aplicado, con requisitos, arquitectura, plan de trabajo y criterios de aceptación. |
+| Proyecto Integrador | PI-2 | Construir e integrar una solución funcional que demuestre el desarrollo con agentes o la incorporación de agentes al producto. |
+| Proyecto Integrador | PI-3 | Verificar y sustentar el producto mediante pruebas, evidencias de desempeño, análisis de riesgos y documentación reproducible. |
+
+Los RAA de las dos asignaturas elegibles se establecerán según su syllabus; no podrán ser el único medio de demostrar un RAP obligatorio.
+
+### Alcance de las asignaturas
 
 **Prácticas de Ingeniería de Software.** El estudiante estará en capacidad de formular requisitos y criterios de aceptación, justificar decisiones de diseño y arquitectura, implementar y mantener componentes de software y producir evidencia reproducible de pruebas, calidad y seguridad.
 
