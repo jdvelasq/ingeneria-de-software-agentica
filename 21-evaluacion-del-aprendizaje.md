@@ -14,6 +14,10 @@ Cada RAP se evaluará mediante los RAA codificados y las evidencias indicadas en
 
 Para evitar que la generación automática oculte carencias formativas, se exigirá evidencia de comprensión individual en actividades seleccionadas: explicación de arquitectura y código, interpretación de resultados de evaluación, análisis de defectos y justificación de decisiones de delegación. El equipo docente podrá ajustar actividades y apoyos cuando aparezcan brechas de aprendizaje, dejando registro de la evidencia que motivó el cambio y su resultado en la cohorte.
 
+## Evaluación reproducible de sistemas agénticos
+
+Una ejecución satisfactoria aislada no constituirá evidencia suficiente de funcionamiento confiable. Los laboratorios y proyectos definirán tareas y condiciones iniciales, criterios de éxito, número justificado de repeticiones, métricas, registro de versiones y análisis de fallos y variabilidad. Cuando corresponda se emplearán suites de evaluación, pruebas de regresión y adversariales, trazas de acciones, experimentos de recuperación y documentación de límites de seguridad y autonomía. En el Proyecto Integrador se entregará un dossier de evaluación y seguridad que permita auditar los resultados y sustentar la responsabilidad técnica del estudiante. [Referente: Stanford CS329Z](https://cs329z.stanford.edu/project.html).
+
 ## Seguimiento y ajuste de los aprendizajes
 
 Las asignaturas establecerán evaluaciones diagnósticas, formativas y sumativas. Los diagnósticos identificarán brechas de programación, diseño y uso de herramientas; las actividades formativas permitirán corregir errores de razonamiento y ejecución; y las evaluaciones sumativas comprobarán el logro de los resultados previstos mediante artefactos y sustentaciones.
@@ -22,7 +26,7 @@ La coordinación académica consolidará evidencias de logro de los RAP a partir
 
 ## Seguimiento y evaluación del funcionamiento del programa
 
-Además de la evaluación de los estudiantes, se implementará un mecanismo de seguimiento de la calidad de la oferta. Al finalizar **cada bloque académico de ocho semanas**, se aplicarán instrumentos de percepción estudiantil sobre acompañamiento, carga de trabajo, recursos y pertinencia de las actividades. Un **comité curricular**, integrado de acuerdo con la regulación institucional, revisará periódicamente los resultados académicos, las necesidades del sector productivo, las herramientas de laboratorio y la vigencia de contenidos. La matriz RAP–RAA servirá para verificar cobertura, progresión y logros por cohorte.
+Además de la evaluación de los estudiantes, se implementará un mecanismo de seguimiento de la calidad de la oferta. Durante **cada semestre académico** se realizarán al menos dos cortes de seguimiento, uno intermedio y otro al cierre, sobre acompañamiento, carga de trabajo, recursos y pertinencia de las actividades; los cortes no suponen bloques curriculares fijos de ocho semanas. Un **comité curricular**, integrado de acuerdo con la regulación institucional, revisará periódicamente los resultados académicos, las necesidades del sector productivo, las herramientas de laboratorio y la vigencia de contenidos. La matriz RAP–RAA servirá para verificar cobertura, progresión y logros por cohorte.
 
 La coordinación consolidará indicadores de matrícula, permanencia, aprobación, graduación, suficiencia de infraestructura, evaluación docente y resultados del proyecto integrador. Los ajustes derivados de este seguimiento se documentarán con responsables, plazos y evidencia, distinguiendo modificaciones operativas de aquellas que requieran aprobación curricular formal.
 
