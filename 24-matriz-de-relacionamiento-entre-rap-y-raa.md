@@ -1,43 +1,35 @@
 # Matriz de relacionamiento entre RAP y RAA
 
-## Matriz de correspondencia entre RAP y RAA
+## Correspondencia entre resultados y actividades obligatorias
 
-La articulación curricular establece una relación explícita entre los resultados de aprendizaje del programa (RAP) y los resultados de aprendizaje de las actividades académicas (RAA). La siguiente matriz preliminar señala los espacios principales de formación y evaluación propuestos. Las denominaciones se consolidarán durante la aprobación del plan de estudios y de los programas de asignatura.
+**Principal (P)** = responsabilidad directa de enseñanza y evaluación; **Complementario (C)** = contribución formativa; **Integración (I)** = evidencia acumulativa de Proyecto Integrador.
 
-| Resultado del programa | Prácticas de Ingeniería de Software | Desarrollo de Software Asistido por Agentes | Arquitectura e Ingeniería de Sistemas Agénticos | Proyecto Integrador |
+| RAP | Ingeniería de Software Asistida por Agentes | Ingeniería de Sistemas Agénticos | Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos | Proyecto Integrador |
 | --- | :---: | :---: | :---: | :---: |
-| RAP 1. Especificación y arquitectura | Principal | Complementario | Principal | Integración |
-| RAP 2. Desarrollo asistido por agentes | Complementario | Principal | Complementario | Integración |
-| RAP 3. Ingeniería de sistemas agénticos | — | Complementario | Principal | Integración |
-| RAP 4. Calidad y evaluación | Principal | Principal | Principal | Integración |
-| RAP 5. Operación y evolución | Complementario | Complementario | Principal | Integración |
-| RAP 6. Responsabilidad profesional | Principal | Principal | Principal | Integración |
-| RAP 7. Proyecto aplicado | — | Complementario | Complementario | Principal |
+| RAP 1. Especificación y arquitectura | P | P | C | I |
+| RAP 2. Desarrollo asistido por agentes | P | C | C | I |
+| RAP 3. Ingeniería de sistemas agénticos | C | P | C | I |
+| RAP 4. Evaluación y confiabilidad | C | C | P | I |
+| RAP 5. Operación y evolución | C | P | P | I |
+| RAP 6. Seguridad y responsabilidad profesional | C | C | P | I |
+| RAP 7. Proyecto aplicado | C | C | C | P |
 
-La categoría **Principal** identifica una actividad con responsabilidad directa de enseñanza y evaluación del resultado; **Complementario** indica una contribución formativa asociada; e **Integración** identifica evidencias que articulan competencias de diferentes asignaturas. La matriz no implica que todos los resultados deban evaluarse con igual profundidad en cada espacio.
+## Matriz operacional: RAP, RAA y evidencias
 
-El componente elegible permitirá ampliar campos de aplicación y profundización, pero no sustituirá ninguna de las actividades esenciales para demostrar el logro de los resultados obligatorios. Esta condición debe verificarse antes de aprobar las asignaturas y sus créditos.
+Los códigos RAA se definen exclusivamente en el capítulo 23. Las evidencias se recogerán mediante instrumentos verificables y serán adaptadas a cada syllabus sin alterar la cobertura obligatoria.
 
-### Relación operacional entre RAP, RAA y evidencias
-
-La siguiente matriz desarrolla la correspondencia de modo que pueda ser verificada en los syllabus y en las actividades evaluadas. Las claves de RAA se definen en el capítulo 23.
-
-| RAP | RAA responsables de evaluación | Evidencia directa mínima | Instrumento sugerido |
+| RAP | RAA responsables | Evidencia directa mínima | Instrumento propuesto |
 | --- | --- | --- | --- |
-| RAP 1. Especificación y arquitectura | PIS-1, PIS-2, ASA-1, PI-1 | Especificación verificable y decisiones de arquitectura justificadas | Rúbrica de requisitos y revisión de diseño |
-| RAP 2. Desarrollo asistido por agentes | DAA-1, DAA-2, PI-2 | Repositorio con cambios supervisados, registro de acciones y pruebas | Revisión de código y bitácora de ejecución |
-| RAP 3. Ingeniería de sistemas agénticos | ASA-1, ASA-2, PI-2 | Aplicación funcional con agentes, herramientas y control de permisos | Demostración técnica y pruebas de integración |
-| RAP 4. Calidad y evaluación | PIS-3, DAA-3, ASA-3, PI-3 | Resultados reproducibles de pruebas y evaluación de comportamiento | Rúbrica de calidad y auditoría técnica |
-| RAP 5. Operación y evolución | PIS-3, ASA-3, PI-3 | Trazas, manejo de fallos y documentación de evolución | Prueba de recuperación y evaluación de observabilidad |
-| RAP 6. Responsabilidad profesional | DAA-1, DAA-3, ASA-2, ASA-3, PI-3 | Análisis de riesgos, límites de autorización y medidas de mitigación | Lista de verificación de seguridad y sustentación |
-| RAP 7. Proyecto aplicado | PI-1, PI-2, PI-3 | Producto integrador sustentado con evidencias de cumplimiento | Rúbrica de proyecto y defensa técnica |
+| RAP 1 | ISAA-1, ISA-1, PI-1 | Especificación con requisitos, criterios de aceptación y arquitectura justificada | Rúbrica de requisitos y revisión arquitectónica |
+| RAP 2 | ISAA-1, ISAA-2, ISAA-3, PI-2 | Repositorio, bitácora de delegación y supervisión, revisiones y pruebas | Auditoría de código y defensa técnica |
+| RAP 3 | ISA-1, ISA-2, ISA-3, PI-2 | Producto que integra agentes, herramientas, fuentes de conocimiento y estado | Demostración y pruebas de integración |
+| RAP 4 | ISAA-3, ESC-1, ESC-3, PI-3 | Suite reproducible, métricas, repeticiones, variabilidad, regresiones y análisis de fallos | Auditoría técnica y rúbrica de evaluación |
+| RAP 5 | ISA-3, ESC-3, PI-3 | Trazas, observabilidad, desempeño, costos, gestión de fallos y recuperación | Ensayo de fallo y revisión operativa |
+| RAP 6 | ISAA-2, ISA-2, ESC-2, ESC-3, PI-3 | Modelo de amenazas, permisos, aislamiento, controles y mitigaciones | Lista de verificación y ejercicio adversarial |
+| RAP 7 | PI-1, PI-2, PI-3, PI-4 | Producto reproducible y defendido con evidencia integral | Rúbrica del Proyecto Integrador y sustentación individual |
 
-La matriz constituye un **insumo completo de formulación para la revisión institucional**; su elaboración anticipada facilita la evaluación del programa, aunque la validación formal y las eventuales adecuaciones al formato institucional correspondan a las instancias universitarias competentes.
+## Cobertura, progresión y aseguramiento de calidad
 
-## Criterios para verificar la cobertura y progresión de los aprendizajes
+Cada RAP dispone de al menos una asignatura obligatoria con responsabilidad principal, y se integra en el Proyecto Integrador. Las dos elegibles aportan profundización pero no son la única vía para demostrar un RAP. El primer semestre produce pruebas independientes de logro; el segundo integra evidencias sin sustituir la verificación individual.
 
-La evaluación de consistencia curricular comprobará que cada RAP cuente con al menos una actividad responsable de su enseñanza y con evidencia directa de logro. Se analizarán la progresión de los niveles de dominio, la correspondencia entre actividades y criterios de evaluación, la distribución de cargas y la ausencia de vacíos críticos en arquitectura, verificación, seguridad y supervisión humana.
-
-Los RAA definitivos deberán formularse mediante verbos observables y condiciones de desempeño concretas. Cada syllabus identificará instrumentos de evaluación, evidencias requeridas y criterios de calificación. La coordinación académica podrá consolidar los resultados obtenidos por cohorte y realizar ajustes que preserven la coherencia entre objetivos, competencias, RAP y RAA.
-
-La matriz presentada constituye una base de articulación que deberá ajustarse al formato y a los procedimientos institucionales de aseguramiento de la calidad.
+Se comprobará la alineación **objeto de estudio → objetivos → competencias → RAP → RAA → evidencias → instrumentos → Proyecto Integrador**, así como carga y progresión formativa. La matriz es un insumo de formulación sujeto a validación institucional, no un acto de aprobación.
