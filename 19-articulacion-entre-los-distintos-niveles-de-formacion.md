@@ -14,6 +14,6 @@ En particular, *Productos de Datos*, de la Especialización en Analítica, const
 
 ## Movilidad y reconocimiento de actividades académicas
 
-El documento de partida plantea posibilidades de inscripción cruzada, movilidad y homologación con otros posgrados. Estas opciones son pertinentes como instrumentos de flexibilidad, pero requieren precisar los procedimientos institucionales y las condiciones de reconocimiento aplicables a cada caso. La coordinación deberá gestionar la disponibilidad de cupos; no corresponde declarar garantías de inscripción que no estén formalmente respaldadas.
+El programa promoverá posibilidades de inscripción cruzada, movilidad y homologación con otros posgrados como instrumentos de flexibilidad, de acuerdo con los procedimientos institucionales y las condiciones de reconocimiento aplicables a cada caso. La coordinación deberá gestionar la disponibilidad de cupos; no corresponde declarar garantías de inscripción que no estén formalmente respaldadas.
 
 La propuesta de articulación debe priorizar la continuidad académica del estudiante y la correspondencia real de contenidos y aprendizajes, no simplemente la similitud de denominaciones entre cursos. Los capítulos del plan de estudios y de transición deberán concretar las condiciones operativas conforme a las decisiones institucionales que finalmente se adopten.
