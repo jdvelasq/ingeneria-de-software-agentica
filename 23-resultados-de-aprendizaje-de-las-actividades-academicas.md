@@ -1,48 +1,29 @@
 # Resultados de aprendizaje de las actividades académicas
 
-## Resultados de aprendizaje por actividad académica
+## Resultados de aprendizaje del núcleo obligatorio
 
-Los resultados de aprendizaje de las actividades académicas (RAA) traducirán los resultados de aprendizaje del programa (RAP) en desempeños observables y evaluables dentro de cada asignatura. La formulación definitiva se incorporará a los respectivos programas de asignatura y deberá guardar correspondencia con su intensidad horaria, contenidos, metodologías y evaluación.
+Los resultados de aprendizaje de las actividades académicas (RAA) concretan los siete resultados del programa (RAP) en evidencias observables. Estas denominaciones y códigos son los vigentes en la propuesta curricular de 25 créditos y dos semestres. Los programas de asignatura deberán detallar niveles de dominio, horas y rúbricas.
 
-Los siguientes **RAA propuestos** permiten identificar evidencias concretas y sostener la trazabilidad con los siete RAP. Sus códigos se emplean también en el capítulo 24.
-
-| Actividad académica | Código | Resultado de aprendizaje de la actividad |
+| Actividad académica | Código | Resultado observable |
 | --- | --- | --- |
-| Prácticas de Ingeniería de Software | PIS-1 | Formular requisitos, restricciones y criterios de aceptación verificables a partir de un problema de software. |
-| Prácticas de Ingeniería de Software | PIS-2 | Diseñar, implementar y justificar componentes y decisiones de arquitectura aplicando principios de mantenibilidad y seguridad. |
-| Prácticas de Ingeniería de Software | PIS-3 | Construir y ejecutar pruebas, interpretar defectos y documentar acciones de corrección y evolución del producto. |
-| Desarrollo de Software Asistido por Agentes | DAA-1 | Descomponer un problema en tareas delegables y establecer contexto, herramientas, permisos y criterios de supervisión. |
-| Desarrollo de Software Asistido por Agentes | DAA-2 | Ejecutar y supervisar un flujo de desarrollo con agentes, registrando acciones y verificando los cambios mediante revisión y pruebas. |
-| Desarrollo de Software Asistido por Agentes | DAA-3 | Evaluar la calidad, riesgos y costos de una solución obtenida con agentes frente a criterios de aceptación explícitos. |
-| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-1 | Diseñar una arquitectura con agentes, interfaces con herramientas, mecanismos de estado, memoria y coordinación. |
-| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-2 | Integrar componentes agénticos con servicios y fuentes de información aplicando restricciones de acceso y control de autonomía. |
-| Arquitectura e Ingeniería de Sistemas Agénticos | ASA-3 | Instrumentar y evaluar el comportamiento del sistema mediante pruebas, trazas, métricas, gestión de fallos y controles de seguridad. |
-| Proyecto Integrador | PI-1 | Formular y justificar un problema aplicado, con requisitos, arquitectura, plan de trabajo y criterios de aceptación. |
-| Proyecto Integrador | PI-2 | Construir e integrar una solución funcional que demuestre el desarrollo con agentes o la incorporación de agentes al producto. |
-| Proyecto Integrador | PI-3 | Verificar y sustentar el producto mediante pruebas, evidencias de desempeño, análisis de riesgos y documentación reproducible. |
+| Ingeniería de Software Asistida por Agentes | ISAA-1 | Formular requisitos, especificaciones, criterios de aceptación y límites de delegación verificables para actividades de ingeniería de software. |
+| Ingeniería de Software Asistida por Agentes | ISAA-2 | Configurar, ejecutar y supervisar flujos de desarrollo con agentes, gestionando contexto, herramientas, permisos y trazabilidad. |
+| Ingeniería de Software Asistida por Agentes | ISAA-3 | Verificar y comparar artefactos y procesos asistidos mediante pruebas, revisión de código y métricas de calidad, tiempo y costo, sin presumir ventajas de productividad. |
+| Ingeniería de Sistemas Agénticos | ISA-1 | Diseñar arquitecturas que justifiquen agentes, interfaces, herramientas, fuentes de conocimiento, memoria, estado y coordinación. |
+| Ingeniería de Sistemas Agénticos | ISA-2 | Integrar agentes con herramientas y servicios mediante contratos explícitos, restricciones de acceso y límites de autonomía. |
+| Ingeniería de Sistemas Agénticos | ISA-3 | Instrumentar el sistema con trazas y métricas para evaluar comportamiento, desempeño, costos, fallos y recuperación. |
+| Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos | ESC-1 | Diseñar y ejecutar protocolos reproducibles con tareas, condiciones iniciales, criterios de éxito, métricas, repeticiones y análisis de variabilidad. |
+| Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos | ESC-2 | Modelar amenazas y aplicar autorización, mínimo privilegio, aislamiento, protección de secretos e información y controles frente a ataques y uso indebido de herramientas. |
+| Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos | ESC-3 | Analizar modos de fallo, ejecutar pruebas adversariales y establecer trazabilidad, supervisión humana y mecanismos de recuperación. |
+| Proyecto Integrador | PI-1 | Formular un problema aplicado con requisitos, arquitectura, plan de trabajo y evaluación y criterios de aceptación verificables. |
+| Proyecto Integrador | PI-2 | Construir una solución funcional y reproducible, documentando el desarrollo supervisado mediante agentes y la integración de componentes agénticos. |
+| Proyecto Integrador | PI-3 | Producir evidencia consolidada de pruebas y evaluación, seguridad, desempeño, trazas, recuperación y limitaciones. |
+| Proyecto Integrador | PI-4 | Sustentar individualmente las decisiones técnicas, resultados, riesgos y condiciones de mantenimiento y evolución del producto. |
 
-Los RAA de las dos asignaturas elegibles se establecerán según su syllabus; no podrán ser el único medio de demostrar un RAP obligatorio.
+## Articulación temporal y exigencia de evidencias
 
-### Alcance de las asignaturas
+Las tres asignaturas del **primer semestre** (12 créditos) generan evidencias diferenciadas de ingeniería asistida, sistemas agénticos y evaluación/seguridad. El **segundo semestre** contiene dos elegibles (8 créditos) y el Proyecto Integrador (5 créditos). Las actividades de las elegibles aportan profundización, pero ningún RAP obligatorio depende exclusivamente de ellas.
 
-**Prácticas de Ingeniería de Software.** El estudiante estará en capacidad de formular requisitos y criterios de aceptación, justificar decisiones de diseño y arquitectura, implementar y mantener componentes de software y producir evidencia reproducible de pruebas, calidad y seguridad.
+Se evaluará la calidad del producto y también la comprensión individual, la atribución de decisiones, el uso y control de herramientas, la identificación de defectos y la capacidad para justificar las pruebas y sus limitaciones. En sistemas de comportamiento variable una sola ejecución satisfactoria no constituye evaluación suficiente.
 
-**Desarrollo de Software Asistido por Agentes.** El estudiante estará en capacidad de descomponer problemas en tareas delegables, configurar herramientas, contexto y permisos, supervisar la ejecución de agentes, revisar modificaciones y verificar artefactos generados con criterios funcionales y no funcionales.
-
-**Arquitectura e Ingeniería de Sistemas Agénticos.** El estudiante estará en capacidad de diseñar e integrar agentes con servicios y herramientas, establecer mecanismos de coordinación, memoria y estado, definir límites de autonomía y evaluar trazabilidad, confiabilidad y seguridad del comportamiento del sistema.
-
-**Proyecto Integrador.** El estudiante estará en capacidad de construir y sustentar una solución de software agéntico o desarrollada mediante agentes, documentando las decisiones de ingeniería y demostrando cumplimiento de requisitos, resultados de evaluación, riesgos y criterios de mantenimiento.
-
-Los RAA de las asignaturas elegibles corresponderán a su campo específico, sin constituir requisitos exclusivos para el logro de los RAP obligatorios.
-
-## Alcance y niveles de dominio
-
-Los niveles de dominio se establecerán de forma progresiva: comprensión de los fundamentos y restricciones; aplicación guiada de técnicas; integración autónoma de componentes; y evaluación argumentada de decisiones y resultados. Las rúbricas especificarán evidencias para cada nivel y distinguirán el funcionamiento del producto de la comprensión demostrada por el estudiante.
-
-Para tareas realizadas mediante agentes, el logro no se inferirá exclusivamente de que el sistema produzca una respuesta funcional. Se evaluarán también la corrección de la especificación, la calidad de las pruebas, la capacidad de detectar defectos y el control ejercido sobre herramientas, datos y recursos.
-
-## Articulación con los programas de asignatura (syllabus)
-
-Cada programa de asignatura deberá describir objetivos, contenidos, RAA, actividades, recursos, dedicación, métodos de evaluación y bibliografía. Se elaborará una matriz que vincule cada RAA con uno o más RAP y con las evidencias que permitan comprobar el nivel de logro.
-
-La actualización periódica de herramientas y modelos podrá realizarse sin modificar los resultados formativos, siempre que se conserve la trazabilidad entre actividades, evaluaciones y competencias. Los syllabus definitivos se presentarán como anexos de la propuesta curricular.
+Cada syllabus describirá objetivos, RAA, contenidos, dedicación, recursos, actividades, criterios de logro, instrumentos de evaluación y bibliografía. Los códigos de esta tabla se emplean sin cambios en la matriz operacional del capítulo 24. La elección de herramientas y modelos podrá actualizarse sin comprometer los resultados formativos.
