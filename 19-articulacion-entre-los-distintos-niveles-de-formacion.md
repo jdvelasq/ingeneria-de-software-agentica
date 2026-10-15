@@ -16,6 +16,10 @@ La articulación académica se organizará en tres mecanismos complementarios: *
 
 La especialización mantendrá como obligatorias las capacidades de ingeniería de software con agentes y de sistemas agénticos. La oferta de *Productos de Datos* de Analítica podrá cubrir profundizaciones en DataOps/MLOps mediante la franja elegible, mientras que otras asignaturas existentes podrán valorarse según su contribución a lenguajes computacionales, interacción humano-computador o representación del conocimiento. Estas opciones constituyen posibilidades de articulación sujetas a cupos, programación, créditos y aprobación curricular, no nuevas obligaciones para el egresado.
 
+La articulación comprende tres mecanismos: tránsito desde pregrado mediante actividades de posgrado susceptibles de reconocimiento; inscripción cruzada entre posgrados para aprovechar asignaturas elegibles compatibles; y proyectos o laboratorios compartidos que utilicen capacidades docentes complementarias. Cada mecanismo estará sujeto a reglamentación, créditos, prerrequisitos, cupos y acuerdos entre unidades académicas.
+
+La oferta elegible se seleccionará a partir de su contribución al perfil del estudiante, sin desplazar las competencias obligatorias de ingeniería de software agéntica. *Productos de Datos* permitirá profundizar en DataOps/MLOps; otras posibles asignaturas en lenguajes computacionales, interacción humano-computador o ingeniería ontológica se analizarán según pertinencia y disponibilidad efectiva.
+
 ## Movilidad y reconocimiento de actividades académicas
 
 El programa promoverá posibilidades de inscripción cruzada, movilidad y homologación con otros posgrados como instrumentos de flexibilidad, de acuerdo con los procedimientos institucionales y las condiciones de reconocimiento aplicables a cada caso. La coordinación deberá gestionar la disponibilidad de cupos; no corresponde declarar garantías de inscripción que no estén formalmente respaldadas.
