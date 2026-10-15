@@ -20,6 +20,8 @@ El programa dispondrá de entornos de programación y control de versiones, herr
 
 La mediación por TIC permitirá desarrollar sesiones sincrónicas de explicación, revisión y acompañamiento, complementadas por trabajo independiente estructurado. La proporción entre estas actividades deberá ser coherente con los créditos académicos, los resultados de aprendizaje y las posibilidades efectivas de interacción de los estudiantes. La selección de plataformas será revisable por cohorte, sin que la sustitución de una herramienta obligue a redefinir los propósitos formativos.
 
+Las actividades se organizarán en ciclos de **preparación, interacción sincrónica y consolidación independiente**: estudio anticipado de requisitos y recursos, laboratorios de construcción y discusión técnica con acompañamiento docente, y trabajo posterior de pruebas, documentación y revisión. El desarrollo colaborativo se complementará con demostraciones y sustentaciones individuales que permitan verificar la contribución y comprensión de cada estudiante.
+
 ## Retroalimentación y metacognición
 
 Cada actividad incorporará espacios para analizar decisiones técnicas, fallos, supuestos y aprendizajes. Las bitácoras de desarrollo permitirán documentar el uso de agentes, los resultados de pruebas, los errores detectados y las acciones correctivas. Las evaluaciones retrospectivas ayudarán a reconocer situaciones en las que la automatización resultó conveniente y aquellas en las que produjo sobrecostos, riesgos o pérdida de control.
