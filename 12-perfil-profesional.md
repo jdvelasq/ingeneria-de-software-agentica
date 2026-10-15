@@ -10,6 +10,10 @@ La apertura a profesionales de distintas disciplinas se apoyará en mecanismos d
 
 Los aspirantes deberán acreditar los requisitos institucionales de formación y admisión. Desde el punto de vista académico, se consideran deseables competencias iniciales en pensamiento lógico, estructuras de programación, manejo de archivos, uso de herramientas de desarrollo, control de versiones y lectura de documentación técnica. El dominio de una plataforma particular de inteligencia artificial no constituye un requisito.
 
+El proceso de admisión comprenderá la presentación del título profesional, historial académico, hoja de vida y soportes de experiencia o formación que exija la convocatoria. La valoración de la hoja de vida podrá constituir un componente de selección, conforme a los criterios adoptados por la Universidad. El instrumento de referencia contemplaba una ponderación de **100 puntos para hoja de vida** y **70 puntos como puntaje global mínimo**; estos valores se registran para su **validación normativa**, no como requisitos vigentes aprobados. Los documentos de identificación y demás soportes se solicitarán conforme a las disposiciones actualizadas, sin trasladar exigencias administrativas que puedan haber cambiado.
+
+Para la titulación, los estudiantes deberán aprobar las actividades académicas y los créditos establecidos en el plan de estudios, así como satisfacer los demás requisitos de grado definidos por la normativa universitaria vigente. Los acuerdos institucionales citados en los antecedentes deberán cotejarse antes de incorporarlos como marco jurídico definitivo.
+
 La coordinación académica podrá emplear diagnósticos de entrada y recomendar rutas de nivelación previas o complementarias, sujetas a viabilidad institucional. Los niveles requeridos deberán establecerse en coherencia con los resultados de aprendizaje y con la intensidad del programa. Los mecanismos de evaluación de aspirantes y los puntajes oficiales se describirán conforme a la normativa vigente, según los requisitos y procedimientos institucionales vigentes.
 
 ## Perfil del egresado
