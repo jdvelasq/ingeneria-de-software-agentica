@@ -16,6 +16,8 @@ Para la titulación, los estudiantes deberán aprobar las actividades académica
 
 La coordinación académica podrá emplear diagnósticos de entrada y recomendar rutas de nivelación previas o complementarias, sujetas a viabilidad institucional. Los niveles requeridos deberán establecerse en coherencia con los resultados de aprendizaje y con la intensidad del programa. Los mecanismos de evaluación de aspirantes y los puntajes oficiales se describirán conforme a la normativa vigente, según los requisitos y procedimientos institucionales vigentes.
 
+El ingreso estará abierto a diversas disciplinas, condicionado a demostrar suficiencia técnica en programación, lectura de código y uso de herramientas de desarrollo. Se ofrecerán diagnósticos y materiales de nivelación, sin sustituir los conocimientos previos necesarios para cursar actividades avanzadas. Cuando las brechas sean sustanciales, deberán superarse antes de comenzar las actividades que las presupongan, conforme a las reglas de admisión y acompañamiento que se aprueben.
+
 ## Perfil del egresado
 
 El egresado será un especialista que aplica fundamentos de ingeniería de software para diseñar, construir, verificar y evolucionar productos digitales en contextos que incorporan agentes de inteligencia artificial. Podrá dirigir flujos de desarrollo asistido por agentes, definir especificaciones y criterios de aceptación, configurar herramientas y límites de autonomía, y revisar con rigor los resultados generados.
