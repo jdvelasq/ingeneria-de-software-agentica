@@ -22,8 +22,8 @@ El componente elegible deberá facilitar trayectorias de profundización sin con
 
 ## Actividades académicas integradoras
 
-El **Proyecto Integrador**, con dos créditos propuestos, articulará aprendizajes a lo largo del período académico. Cada proyecto abordará un problema de desarrollo de software con criterios de aceptación explícitos e incorporará, según corresponda, actividades de desarrollo asistido por agentes o componentes agénticos integrados en la solución.
+El **Proyecto Integrador**, con cinco créditos propuestos, articulará aprendizajes a lo largo del período académico. Cada proyecto abordará un problema de desarrollo de software con criterios de aceptación explícitos e incorporará, según corresponda, actividades de desarrollo asistido por agentes o componentes agénticos integrados en la solución.
 
 Los productos mínimos incluirán un repositorio versionado, documentación de requisitos y arquitectura, evidencia de pruebas, mecanismos de observabilidad y trazabilidad, evaluación de riesgos y sustentación técnica. Deberá distinguirse el trabajo delegado a agentes de las decisiones, verificaciones y responsabilidades asumidas por los estudiantes.
 
-El programa tendrá **25 créditos académicos**. Las actividades aquí descritas distribuyen preliminarmente **14 créditos obligatorios y ocho elegibles**, para un subtotal de **22 créditos**. **Los tres créditos restantes están pendientes de asignación** entre las actividades del plan, según los acuerdos curriculares que se adopten. La definición deberá verificar factibilidad, intensidad de dedicación, secuencia de actividades y suficiencia de evidencias para los resultados de aprendizaje.
+El programa tendrá **25 créditos académicos**, distribuidos en **17 créditos obligatorios** (tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco) y **ocho créditos elegibles** (dos asignaturas de cuatro créditos). La estructura deberá verificarse en términos de factibilidad, intensidad de dedicación, secuencia de actividades y suficiencia de evidencias para los resultados de aprendizaje.
