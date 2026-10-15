@@ -6,6 +6,8 @@ El objeto de estudio de la **Especialización en Ingeniería de Software Agénti
 
 En la primera dimensión se estudian la formulación de requisitos y especificaciones verificables, la descomposición y delegación de tareas, el diseño de entornos y herramientas para agentes, la gestión de contexto y memoria, y la verificación de artefactos generados. En la segunda se abordan las arquitecturas, interfaces y protocolos de integración, la coordinación entre componentes, los permisos, el estado y la observabilidad, así como la evaluación del comportamiento, los fallos y la seguridad de aplicaciones agénticas.
 
+En los sistemas que dependen de información externa, estas capacidades comprenderán también la **integración de fuentes de conocimiento**, mecanismos de recuperación aumentada por generación (*retrieval-augmented generation*, RAG), índices semánticos y, cuando corresponda, bases de datos vectoriales. Su enseñanza se abordará como una decisión arquitectónica de integración y gestión del contexto, evaluando procedencia, vigencia, permisos y calidad de la información recuperada, y no como una finalidad independiente de ingeniería de datos.
+
 El objeto de estudio mantiene como referencia el sistema de software y su ciclo de vida: calidad, mantenibilidad, seguridad, desempeño, operación y evolución. La participación de agentes modifica técnicas y responsabilidades, pero no elimina la obligación de producir sistemas que cumplan requisitos y puedan ser comprendidos, auditados y mantenidos.
 
 ## Alcance disciplinar y diferenciación frente a programas afines
