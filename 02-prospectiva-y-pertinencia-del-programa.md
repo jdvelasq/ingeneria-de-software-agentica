@@ -1,15 +1,23 @@
 # Prospectiva y pertinencia del programa
 
-<!-- Esquema de subsecciones basado en el documento de referencia de la Maestría en Ingeniería – Analítica; los encabezados que no aparecen allí de forma expresa son adaptaciones editoriales para la especialización. Pendiente de redacción. -->
-
 ## Futuro y tendencias del programa
 
-<!-- Pendiente de desarrollo. -->
+La ingeniería de software está experimentando una transformación asociada a la incorporación de inteligencia artificial generativa y agentes capaces de interactuar con repositorios, herramientas de desarrollo, sistemas de pruebas y servicios externos. Esta evolución no se limita a generar código a partir de instrucciones: introduce nuevas formas de especificar tareas, distribuir responsabilidades, controlar la ejecución y verificar los resultados. La ingeniería de software agéntica se proyecta como una especialización de la práctica profesional que combina los fundamentos del ciclo de vida del software con el diseño, la integración y la supervisión de agentes.
+
+La adopción de estas tecnologías avanza junto con preocupaciones sobre su confiabilidad. La [encuesta de desarrolladores de Stack Overflow de 2025](https://survey.stackoverflow.co/2025/ai) indica que el 84 % de sus participantes utiliza o planea utilizar herramientas de IA, mientras que un 46 % desconfía de la precisión de sus resultados. Asimismo, el [informe DORA 2025](https://dora.dev/research/2025/dora-report/) destaca que la IA tiende a amplificar las capacidades y debilidades de las organizaciones, por lo que los resultados dependen también de sus prácticas de ingeniería y gestión. Estas evidencias respaldan una formación que priorice la verificación, la calidad, la seguridad y la responsabilidad profesional sobre el dominio circunstancial de herramientas.
+
+En educación superior, la respuesta pertinente consiste en integrar conocimientos duraderos de arquitectura, construcción, pruebas, mantenimiento y evolución del software con competencias emergentes en ingeniería de contexto, diseño de herramientas, orquestación de agentes, observabilidad y evaluación de sistemas agénticos. La rapidez de cambio del ecosistema exige una estructura formativa capaz de actualizar tecnologías y casos prácticos sin alterar continuamente el propósito académico del programa.
 
 ## Rasgos distintivos del programa
 
-<!-- Pendiente de desarrollo. -->
+La **Especialización en Ingeniería de Software Agéntica** de la Universidad Nacional de Colombia se distinguirá por preservar la ingeniería de software como fundamento disciplinar y abordar dos dimensiones complementarias: **desarrollar software con agentes de IA** y **desarrollar software que incorpora agentes de IA**. La primera implica especificar, delegar, revisar y validar tareas realizadas por asistentes y agentes de desarrollo. La segunda comprende diseñar e integrar componentes agénticos que interactúan con herramientas, información y procesos organizacionales bajo restricciones explícitas.
+
+El programa privilegiará la formación de profesionales capaces de razonar sobre decisiones arquitectónicas, evaluar la calidad del código generado, diseñar pruebas, gestionar permisos y mantener trazabilidad de las actuaciones automatizadas. La supervisión humana, la seguridad y la evaluación sistemática serán criterios transversales. Las tecnologías concretas funcionarán como medios de aprendizaje, no como el objeto principal de formación. Del mismo modo, AIOps, referido a la aplicación de IA a las operaciones de TI, podrá abordarse como una práctica complementaria cuando aporte a la operación de sistemas, sin desplazar el eje de ingeniería de software agéntica.
+
+Su propuesta pedagógica se apoyará en laboratorios de desarrollo, proyectos integradores y resolución de problemas que exijan demostrar el funcionamiento de los productos y justificar las decisiones adoptadas durante la colaboración humano-agente. La articulación con programas afines permitirá aprovechar capacidades institucionales sin duplicar su énfasis en la construcción de modelos de IA o productos analíticos.
 
 ## Campos de acción del programa
 
-<!-- Pendiente de desarrollo. -->
+Los egresados podrán desempeñarse en organizaciones públicas, privadas y emprendimientos tecnológicos que diseñan, construyen o transforman sistemas de software. Entre sus campos de acción se encuentran la ingeniería y arquitectura de software asistidas por agentes, la integración de capacidades agénticas en aplicaciones empresariales, la automatización supervisada de tareas de desarrollo y mantenimiento, y la evaluación de calidad, seguridad y confiabilidad de soluciones con componentes de IA.
+
+También podrán participar en equipos de modernización tecnológica, consultoría e innovación aplicada, orientando la adopción responsable de agentes en procesos de ingeniería y colaborando con especialistas en inteligencia artificial, datos, ciberseguridad y operaciones. La pertinencia del programa dependerá de su capacidad para formar profesionales que no solo utilicen herramientas emergentes, sino que diseñen y sostengan sistemas verificables, mantenibles y acordes con las necesidades de las organizaciones.
