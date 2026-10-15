@@ -20,6 +20,10 @@ El programa se proyecta con una duración de **un semestre académico de 16 sema
 
 La modalidad deberá definirse conforme a la nomenclatura y regulación universitaria aplicable, diferenciando claramente sesiones sincrónicas, trabajo guiado y trabajo independiente. No se debe afirmar que una modalidad o proporción de sesiones tiene reconocimiento normativo automático sin los soportes correspondientes.
 
+La organización de las actividades académicas combinará sesiones sincrónicas de laboratorio, revisión y sustentación con trabajo independiente documentado en repositorios y entornos de desarrollo. La modalidad deberá precisar horas de interacción y de trabajo autónomo conforme a las disposiciones institucionales. No se trasladará automáticamente un porcentaje de presencialidad remota utilizado en otros programas.
+
+La duración proyectada de 16 semanas implica, para **25 créditos de 48 horas**, un total de **1.200 horas** y una dedicación promedio de **75 horas semanales**. Por ello, la programación y modalidad requerirán análisis de factibilidad específico para profesionales en ejercicio antes de su aprobación.
+
 ## Principios de organización curricular
 
 El currículo se estructurará desde los fundamentos de ingeniería de software hacia la especificación y el control de actividades agénticas, la arquitectura de sistemas que integran agentes, su evaluación y su operación confiable. El proyecto integrador permitirá evidenciar que los aprendizajes se aplican sobre un producto de software completo y verificable.
