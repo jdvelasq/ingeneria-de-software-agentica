@@ -2,21 +2,21 @@
 
 ## Número total de créditos del plan de estudios
 
-El documento original de la *Especialización en Desarrollo de Software Impulsado por Inteligencia Artificial* propone una duración de un semestre y presenta una malla detallada con **22 créditos**, distribuidos en cinco asignaturas de cuatro créditos y un proyecto integrador de dos créditos. Sin embargo, otros apartados indican 25 créditos y atribuyen cinco créditos al proyecto, por lo que existe una inconsistencia documental que debe resolverse antes de aprobar una nueva estructura.
+La Especialización en Ingeniería de Software Agéntica se estructura preliminarmente en **22 créditos**, distribuidos entre asignaturas obligatorias, asignaturas elegibles y un proyecto integrador transversal. La definición definitiva de la carga académica y su distribución requerirá validación curricular e institucional, en correspondencia con los objetivos y resultados de aprendizaje.
 
-Como punto de partida, la propuesta de Ingeniería de Software Agéntica considera la posibilidad de mantener una duración de un semestre, sujeta a una revisión de factibilidad académica. Bajo la equivalencia de 48 horas de dedicación por crédito, 22 créditos representan 1.056 horas, es decir, un promedio de **66 horas semanales durante 16 semanas**. Esta carga requiere especial atención en un posgrado dirigido a profesionales que pueden mantener obligaciones laborales. No se recomienda ratificar los créditos o la duración únicamente por continuidad con el documento anterior.
+Se propone una duración de **un semestre académico de 16 semanas**, sujeta a revisión de factibilidad. Bajo una equivalencia de 48 horas de dedicación por crédito, 22 créditos representan 1.056 horas, equivalentes a un promedio de **66 horas semanales**. Dado que el programa está dirigido también a profesionales en ejercicio, será necesario evaluar alternativas de distribución de actividades, modalidades de acompañamiento y exigencias reales del proyecto integrador.
 
 ## Componentes y actividades académicas
 
 La estructura deberá asegurar una secuencia coherente desde fundamentos y desarrollo con agentes hacia arquitectura e integración de sistemas agénticos, evaluación, seguridad y operación verificable. El proyecto integrador articulará los aprendizajes durante el período académico. La definición final de asignaturas y su distribución entre componentes obligatorios y elegibles deberá derivarse de los resultados de aprendizaje y no de la disponibilidad circunstancial de herramientas.
 
-La propuesta inicial contemplaba *Prácticas de Desarrollo de Software*, *Programación Asistida por IA*, *Machine Learning Aplicado al Software*, *Arquitectura de Software y AIOps*, *Diseño de Experiencia de Usuario con IA* y *Proyecto Integrador*. Estos nombres constituyen antecedentes, **no asignaturas ya aprobadas para la nueva especialización**. En particular, AIOps se excluye del nuevo núcleo y MLOps no se plantea como formación obligatoria independiente.
+Se propone un componente obligatorio de prácticas de ingeniería de software, desarrollo asistido por agentes, arquitectura e ingeniería de sistemas agénticos y proyecto integrador. La oferta elegible podrá profundizar en evaluación avanzada, seguridad, experiencia de usuario e integración de productos de datos, según disponibilidad académica y articulación con otros programas. La evaluación, las pruebas y la seguridad constituyen resultados transversales obligatorios, independientemente de las optativas elegidas.
 
 ## Flexibilidad del plan de estudios
 
 Se propone reservar espacio electivo para profundizaciones complementarias, sin comprometer el logro de los resultados obligatorios. La asignatura *Productos de Datos* de la Especialización en Analítica podrá ser considerada como optativa compartida para estudiantes interesados en DataOps/MLOps, previa verificación de créditos, requisitos, cupos y normativa institucional.
 
-El porcentaje definitivo de flexibilidad se calculará cuando estén aprobados el total de créditos y la oferta obligatoria. No se debe reproducir automáticamente la distribución de 14 créditos obligatorios y ocho electivos que se deduce de una de las tablas originales, sin resolver antes la consistencia del plan.
+El porcentaje definitivo de flexibilidad se calculará cuando estén aprobados el total de créditos y la oferta obligatoria. Una distribución preliminar de **14 créditos obligatorios y ocho elegibles** ofrece flexibilidad para trayectorias complementarias, pero su adopción definitiva dependerá de verificar la cobertura de los resultados de aprendizaje obligatorios.
 
 ## Carácter interdisciplinario del plan de estudios
 
