@@ -6,13 +6,13 @@ Se propone la denominación **Especialización en Ingeniería de Software Agént
 
 ## Información general del programa
 
-La propuesta se formula para la Universidad Nacional de Colombia, Sede Medellín, Facultad de Minas, con participación académica del Departamento de Ciencias de la Computación y de la Decisión, según el documento original. Los datos oficiales de área curricular, unidad académica responsable, actos administrativos, registro y condiciones de apertura deberán ratificarse en la documentación institucional.
+La propuesta se formula para la Universidad Nacional de Colombia, Sede Medellín, Facultad de Minas, con participación académica del Departamento de Ciencias de la Computación y de la Decisión, de acuerdo con la organización académica de la Facultad. Los datos oficiales de área curricular, unidad académica responsable, actos administrativos, registro y condiciones de apertura deberán ratificarse en la documentación institucional.
 
-La propuesta inicial de *Desarrollo de Software Impulsado por Inteligencia Artificial* contemplaba un plan de un semestre organizado en dos bloques y un proyecto integrador transversal. Sus tablas detalladas suman 22 créditos, pero algunos apartados consignan 25 créditos y distribuciones obligatorias inconsistentes. **No se adopta como definitiva ninguna de esas cifras hasta conciliar las asignaturas y aprobar la carga de formación.**
+El plan de estudios se organizará en actividades académicas articuladas con un proyecto integrador transversal. Se considera una distribución preliminar de **22 créditos**; su validación requerirá conciliar el número de asignaturas, la carga total y la distribución entre componentes obligatorios y elegibles antes de la aprobación institucional.
 
 ## Modalidad y duración
 
-La referencia original plantea una duración de **un semestre académico de 16 semanas**, con actividades telepresenciales mediadas por TIC y franjas de interacción programadas. Esta organización constituye una hipótesis de diseño que debe evaluarse en relación con el número de créditos, la intensidad de trabajo independiente, la posibilidad de realizar proyectos reales y los requisitos de calidad institucionales.
+El programa se proyecta con una duración de **un semestre académico de 16 semanas**, mediante actividades académicas mediadas por TIC y franjas de interacción programadas. Su implementación estará condicionada a la evaluación de la carga crediticia, el trabajo independiente, la posibilidad de desarrollar proyectos reales y los requisitos institucionales de calidad.
 
 La modalidad deberá definirse conforme a la nomenclatura y regulación universitaria aplicable, diferenciando claramente sesiones sincrónicas, trabajo guiado y trabajo independiente. No se debe afirmar que una modalidad o proporción de sesiones tiene reconocimiento normativo automático sin los soportes correspondientes.
 
