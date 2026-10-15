@@ -34,3 +34,48 @@ El programa tendrá **25 créditos académicos**, distribuidos en **17 créditos
 El primer semestre comprende las tres asignaturas obligatorias de cuatro créditos (12 créditos). El segundo comprende dos elegibles de cuatro créditos y el Proyecto Integrador de cinco créditos (13 créditos). La formación se desarrollará en dos semestres, sujeta a aprobación institucional. Los fundamentos de ingeniería de software se verificarán al ingreso y se reforzarán mediante nivelación y actividades transversales.
 
 La evaluación del Proyecto Integrador exigirá especificación, arquitectura, producto reproducible, pruebas, métricas, análisis de riesgos, trazas y sustentación. Se propone una rúbrica de 20 % para requisitos y arquitectura, 25 % para construcción e integración, 25 % para evaluación, 15 % para seguridad y operación y 15 % para documentación y sustentación, sujeta a aprobación académica.
+
+
+## Esquemas preliminares de syllabus del núcleo obligatorio
+
+Las siguientes descripciones amplían los propósitos sin alterar denominaciones ni créditos. Cada curso tiene **192 horas totales**. Una distribución orientativa, aún no aprobada, sería **48 horas de acompañamiento docente y 144 de trabajo independiente** por asignatura; la Universidad establecerá la proporción definitiva.
+
+### Ingeniería de Software Asistida por Agentes (4 créditos)
+
+**Propósito:** diseñar, ejecutar, supervisar y evaluar procesos de ingeniería de software en los que agentes intervienen en especificación, análisis de repositorios, implementación, pruebas, documentación y evolución, con gestión de contexto, herramientas, permisos y trazabilidad.
+
+**Unidades temáticas (orientativas):** (1) requisitos, criterios de aceptación y límites de delegación; (2) ingeniería de contexto, herramientas, entornos de ejecución y agentes; (3) modificación y revisión de repositorios, pruebas, CI y mantenimiento; (4) medición comparativa de calidad, productividad, costos y riesgos; (5) supervisión humana y defensa técnica sobre un repositorio realista.
+
+**RAA:** ISAA-1, ISAA-2 e ISAA-3 (capítulo 23). **Evidencias:** especificaciones, bitácora supervisada, revisiones de código, suite de pruebas, experimento comparativo y sustentación.
+
+### Ingeniería de Sistemas Agénticos (4 créditos)
+
+**Propósito:** diseñar e integrar sistemas de software con agentes, modelos, herramientas, fuentes de conocimiento y otros servicios, administrando contratos, memoria, estado, coordinación, autonomía, observabilidad, costos y recuperación.
+
+**Unidades temáticas:** (1) arquitecturas de sistemas compuestos, salidas estructuradas y contratos; (2) APIs, protocolos y herramientas; (3) RAG e integración arquitectónica de conocimiento, memoria y estado; (4) bucles de agente, orquestación y coordinación; (5) límites de autonomía, consistencia de acciones, tolerancia a fallos y observabilidad; (6) integración y defensa arquitectónica.
+
+**RAA:** ISA-1, ISA-2 e ISA-3. **Evidencias:** arquitectura justificada, aplicación reproducible, pruebas de integración, trazas y análisis de desempeño.
+
+### Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos (4 créditos)
+
+**Propósito:** evaluar corrección, robustez, seguridad y confiabilidad de sistemas agénticos con protocolos repetibles y establecer controles técnicos frente a comportamientos inesperados o adversariales.
+
+**Unidades temáticas:** (1) diseño de tareas, conjuntos de evaluación, criterios de éxito, métricas y evaluadores; (2) no determinismo, repeticiones, variabilidad, regresión, evaluación de uso de herramientas y RAG; (3) modelado de amenazas, inyección de instrucciones, permisos, mínimo privilegio, aislamiento y protección de secretos; (4) pruebas adversariales, monitoreo, supervisión humana y recuperación; (5) dossier verificable de seguridad y confiabilidad.
+
+**RAA:** ESC-1, ESC-2 y ESC-3. **Evidencias:** suite reproducible, modelo de amenazas, ejercicios adversariales autorizados, análisis de fallos y defensa técnica.
+
+### Proyecto Integrador (5 créditos): hitos y entregables
+
+El proyecto equivale a **240 horas totales**. Como hipótesis de trabajo, **32 horas podrían destinarse a tutoría/revisión y 208 al trabajo independiente**, sin que ello sea una distribución institucional definida.
+
+| Hito | Entregable | RAP predominantes |
+| --- | --- | --- |
+| Formulación | Problema, requisitos, arquitectura y plan de evaluación | 1, 7 |
+| Construcción | Repositorio reproducible y sistema integrado | 2, 3, 7 |
+| Evaluación | Pruebas, métricas, repeticiones, regresiones y análisis de fallos | 4, 7 |
+| Seguridad y operación | Modelo de amenazas, autorizaciones, trazas, costos y recuperación | 5, 6, 7 |
+| Cierre | Documentación, limitaciones, demostración y defensa individual | 1–7 |
+
+Se conserva la **rúbrica propuesta 20/25/25/15/15**, sujeta a aprobación: requisitos/arquitectura (20 %), construcción/integración (25 %), evaluación/evidencia (25 %), seguridad/operación (15 %) y documentación/reproducibilidad/sustentación (15 %). Se aplicarán PI-1 a PI-4 del capítulo 23.
+
+**Referentes:** [Stanford CS329Z](https://cs329z.stanford.edu/), [CMU Software Engineering with AI](https://www.cmu.edu/online/software-engineering-ai), [NIST SP 800-218A](https://csrc.nist.gov/pubs/sp/800/218/a/final) y [SEI Twelve Foundational Practices](https://www.sei.cmu.edu/library/ai-engineering-twelve-foundational-practices/). Estas descripciones son propuestas para validación en los programas de asignatura, no syllabus oficialmente adoptados.
