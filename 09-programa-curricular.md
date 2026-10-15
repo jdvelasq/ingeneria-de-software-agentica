@@ -10,6 +10,10 @@ La propuesta se formula para la Universidad Nacional de Colombia, Sede Medellín
 
 El plan de estudios se organizará en actividades académicas articuladas con un proyecto integrador transversal. El programa tendrá **25 créditos académicos**, conforme a la definición institucional comunicada. La distribución propuesta comprende **17 créditos obligatorios** —tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco— y **ocho créditos elegibles** —dos asignaturas de cuatro créditos—, para un total de 25.
 
+La organización académica contemplará sesiones sincrónicas de orientación, laboratorios guiados, revisión técnica de proyectos y sustentaciones, complementadas con actividades independientes de lectura, implementación y evaluación. En los espacios remotos se dispondrá de mecanismos de acceso a entornos de desarrollo, repositorios y registros de experimentación. La definición institucional de modalidad deberá distinguir la presencia sincrónica mediada por TIC, el trabajo dirigido y el trabajo autónomo, con sus respectivas cargas horarias. No se adopta automáticamente un porcentaje de sincronicidad establecido en documentos de otros programas.
+
+La programación propuesta de 16 semanas y 25 créditos representa una carga estimada de 1.200 horas académicas, equivalentes a 75 horas semanales bajo 48 horas por crédito. Su viabilidad exige una revisión explícita de la dedicación esperada, la intensidad de los bloques y las condiciones de los aspirantes, antes de fijar una oferta y un calendario definitivos.
+
 ## Modalidad y duración
 
 El programa se proyecta con una duración de **un semestre académico de 16 semanas**, mediante actividades académicas mediadas por TIC y franjas de interacción programadas. Su implementación estará condicionada a la evaluación de la carga crediticia, el trabajo independiente, la posibilidad de desarrollar proyectos reales y los requisitos institucionales de calidad.
