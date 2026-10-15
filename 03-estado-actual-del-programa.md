@@ -34,6 +34,26 @@ Estas capacidades ofrecen una base plausible para articular fundamentos de ingen
 
 La disponibilidad de capacidades específicas de ingeniería de software agéntica deberá sustentarse mediante la relación de profesores, asignaturas impartidas, proyectos de investigación o desarrollo, publicaciones, trabajos finales, laboratorios y convenios pertinentes. Asimismo, deberá identificar colaboraciones con empresas y entidades públicas en las que puedan desarrollarse proyectos integradores sobre sistemas reales. La articulación con Analítica permitirá considerar la asignatura *Productos de Datos* como optativa compartida para profundizar en DataOps/MLOps, sujeta a las condiciones académicas correspondientes, sin duplicar estas temáticas en el núcleo obligatorio.
 
+### Capacidades académicas documentadas
+
+En el inventario académico utilizado para formular el programa se identifican los siguientes grupos y áreas de trabajo. Los códigos se conservan como identificadores de referencia y deben cotejarse con los registros actuales de Minciencias:
+
+| Grupo | Código Minciencias consignado | Contribución pertinente |
+| --- | --- | --- |
+| Calidad de Software | COL0059923 | Verificación y validación, pruebas, gestión de defectos y sistemas embebidos |
+| Lenguajes Computacionales | COL0035402 | Lenguajes controlados, lingüística computacional y modelos de diálogo |
+| SENDA R&D Group | COL0202977 | Modelamiento, arquitectura, desarrollo y mantenimiento de software |
+| Big Data y Data Analytics | COL0043351 | Productos de datos y competencias complementarias en analítica |
+| Inteligencia Artificial (GIDIA) | COL0030139 | Planificación, recuperación de información y sistemas multiagente |
+| Informática Educativa (GUIAME) | COL0118597 | Aprendizaje colaborativo y sistemas educacionales adaptativos |
+| Sistemas Inteligentes Web (SINTELWEB) | COL0059834 | Web semántica, recuperación de información y planificación de procesos |
+
+El cuerpo docente relacionado en el levantamiento institucional incluye a Carlos Mario Zapata Jaramillo, María Clara Gómez Álvarez, Albeiro Espinosa Bedoya, Fernán Alonso Villa Garzón, John Willian Branch Bedoya, Juan David Velásquez Henao, John Ballesteros Parra y Jaime Alberto Guzmán Luna. Se identifican también posibles contribuciones de Julián Moreno Cadavid, Francisco Javier Moreno Arboleda y María Constanza Torres Madroñero. Esta relación describe capacidades e interés de participación, no asignaciones docentes aprobadas.
+
+Como antecedentes de investigación aplicada se identifican un **modelo multiagente de planificación con conocimiento incompleto** (2008–2009), un **modelo de integración inteligente de procesos de negocio** (2014–2015), un **sistema de aprendizaje combinado inteligente con ludificación** (iniciado en 2019), una **plataforma de vigilancia epidemiológica apoyada en IA** (iniciada en 2021) y un **diagnóstico de adopción de IA en Industria 4.0** (iniciado en 2023). La pertinencia de cada iniciativa respecto de las competencias del programa debe verificarse con sus productos, responsables y resultados; las fechas de finalización de proyectos identificados anteriormente como activos requieren actualización.
+
+La información consolidada deberá complementarse con soportes oficiales sobre producción académica, dedicación docente, infraestructura y colaboraciones con el sector externo.
+
 **Información institucional pendiente:** inventario verificable de proyectos y publicaciones relevantes, docentes disponibles, infraestructura de laboratorios, convenios activos y trabajos académicos vinculados con ingeniería de software.
 
 ## Relación con la especialización anterior
