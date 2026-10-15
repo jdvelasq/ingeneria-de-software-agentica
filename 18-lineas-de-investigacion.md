@@ -20,6 +20,10 @@ Entre los antecedentes identificados se encuentran proyectos de planificación m
 
 Los proyectos integradores podrán vincularse a problemas de investigación aplicada y desarrollo tecnológico cuando existan tutores, recursos y condiciones de acceso a sistemas o datos. Se priorizarán iniciativas que permitan evaluar reproduciblemente productos de software completos, evitando limitar la formación a demostraciones aisladas de herramientas.
 
+## Preguntas de investigación aplicada
+
+La revisión de evidencia hace pertinentes algunas preguntas que podrían orientar proyectos integradores o trabajos de grado, sujetas a la disponibilidad de tutores: (i) qué efectos tiene el desarrollo asistido por agentes sobre el tiempo total, los defectos, la mantenibilidad y el costo en organizaciones colombianas, dado que los estudios internacionales disponibles describen poblaciones específicas y METR reconoció sesgos de selección en 2026; (ii) qué controles reducen el riesgo en las categorías de amenaza del OWASP Top 10 para aplicaciones agénticas 2026, por ejemplo la cadena de suministro agéntica y la comunicación insegura entre agentes, cuando se emplean protocolos abiertos de herramientas y agentes; y (iii) cómo evaluar de manera reproducible sistemas agénticos en español y en dominios locales de ingeniería. Estas preguntas no constituyen líneas oficialmente adoptadas.
+
 ## Articulación con el programa curricular
 
 Los aportes de estas líneas se reflejarán en casos, laboratorios, proyectos y tutorías que permitan conectar conocimientos disciplinares con aplicaciones verificables. Su incorporación deberá ser coherente con los RAP y con la intensidad de una especialización. No se exigirá al estudiante la producción de conocimiento original propia de programas de investigación.
