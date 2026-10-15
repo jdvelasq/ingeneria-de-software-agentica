@@ -13,9 +13,9 @@ Los objetivos del programa orientan la formación hacia productos reales y evalu
 | Especificación y arquitectura rigurosas | Análisis de requisitos, diseño de software, pensamiento crítico | RAP 1 |
 | Desarrollo asistido verificable | Delegación, contexto, herramientas, revisión de código y supervisión | RAP 2 |
 | Construcción de sistemas agénticos | Arquitectura, integración, memoria, coordinación y control | RAP 3 |
-| Calidad y confiabilidad | Pruebas, evaluación, seguridad, mantenibilidad | RAP 4 y RAP 6 |
+| Evaluación y confiabilidad | Pruebas reproducibles, métricas, variabilidad, modos de fallo, seguridad y mantenibilidad | RAP 4 y RAP 6 |
 | Ciclo de vida del producto | Integración, despliegue, observabilidad y mantenimiento | RAP 5 |
-| Formación aplicada y responsabilidad | Trabajo interdisciplinario, argumentación y evidencia técnica | RAP 6 y RAP 7 |
+| Seguridad, formación aplicada y responsabilidad | Modelos de amenaza, autorización, aislamiento, supervisión humana y argumentación técnica | RAP 6 y RAP 7 |
 
 ### Trazabilidad entre objetivos, competencias, RAP y evidencias
 
@@ -26,11 +26,13 @@ La matriz desarrolla las intencionalidades del programa en términos que permita
 | 1. Aplicar fundamentos de ingeniería de software | Requisitos, arquitectura, pruebas y mantenimiento | RAP 1, 4 y 5 | Especificación, diseño y pruebas del sistema |
 | 2. Diseñar procesos de desarrollo con agentes | Descomposición, contexto, herramientas y supervisión | RAP 2 y 6 | Flujo supervisado y registros de verificación |
 | 3. Construir e integrar sistemas agénticos | Arquitectura, integración, memoria y coordinación | RAP 1, 3 y 5 | Aplicación integrada y diseño técnico |
-| 4. Evaluar calidad de artefactos y software | Verificación, revisión de código y seguridad | RAP 2 y 4 | Pruebas reproducibles y análisis de defectos |
+| 4. Evaluar calidad de artefactos y software | Verificación, revisión de código y seguridad | RAP 2 y 4 | Suite reproducible, métricas, repeticiones, análisis de defectos y regresiones |
 | 5. Implementar evaluación y observabilidad | Instrumentación, trazabilidad y análisis de fallos | RAP 4 y 5 | Trazas, evaluaciones y pruebas de recuperación |
-| 6. Mitigar riesgos de autonomía | Pensamiento crítico, privacidad y responsabilidad profesional | RAP 6 | Análisis de riesgos y controles de permisos |
+| 6. Mitigar riesgos de autonomía | Pensamiento crítico, privacidad y responsabilidad profesional | RAP 6 | Modelo de amenazas, mínimo privilegio, aislamiento y supervisión humana |
 | 7. Desarrollar proyectos integradores | Resolución aplicada, colaboración y comunicación | RAP 7, con integración de RAP 1–6 | Producto funcional y sustentación |
 | 8. Evaluar tendencias y herramientas | Aprendizaje autónomo y criterio de selección tecnológica | RAP 2, 4 y 6 | Comparación técnica documentada |
+
+Los RAP 4 y 6 se entienden conforme a las formulaciones actualizadas de **evaluación y confiabilidad** y **seguridad y responsabilidad profesional** del capítulo 14. La tercera asignatura obligatoria, *Evaluación, Seguridad y Confiabilidad de Sistemas Agénticos*, es responsable principal de su evaluación, y el Proyecto Integrador recoge la evidencia final, según el capítulo 24.
 
 La **trazabilidad se completa** con los RAA codificados en el capítulo 23 y las evidencias e instrumentos del capítulo 24. Ningún objetivo específico ni RAP dependerá exclusivamente de asignaturas elegibles para ser demostrado. Se deberá verificar la coherencia entre la dificultad de cada evidencia y la carga efectiva de las asignaturas del plan de 25 créditos.
 
