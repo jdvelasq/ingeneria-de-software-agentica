@@ -38,14 +38,14 @@ Los productos mínimos incluirán un repositorio versionado, documentación de r
 
 El problema del Proyecto Integrador podrá provenir de (a) una organización externa, con acuerdos de confidencialidad y de uso de datos; (b) un grupo de investigación o un proyecto de desarrollo de la Facultad; o (c) un proyecto de software abierto, mediante una contribución acordada con sus mantenedores. En todos los casos regirán PI-1 a PI-4, la evidencia de atribución individual (historial de cambios, bitácora y sustentación) y la declaración de lo delegado a agentes. La modalidad (c) atiende la restricción de confidencialidad que limita los proyectos con organizaciones y genera evidencia pública y verificable de la calidad del trabajo del estudiante.
 
-El programa tendrá **25 créditos académicos**, distribuidos en **17 créditos obligatorios** (tres asignaturas de cuatro créditos y un Proyecto Integrador de cinco) y **ocho créditos elegibles** (dos asignaturas de cuatro créditos). La estructura deberá verificarse en términos de factibilidad, intensidad de dedicación, secuencia de actividades y suficiencia de evidencias para los resultados de aprendizaje.
+La estructura de 25 créditos (17 obligatorios y ocho elegibles) deberá verificarse en términos de factibilidad, intensidad de dedicación, secuencia de actividades y suficiencia de evidencias para los resultados de aprendizaje.
 
 
 ## Secuencia curricular propuesta
 
 El primer semestre comprende las tres asignaturas obligatorias de cuatro créditos (12 créditos). El segundo comprende dos elegibles de cuatro créditos y el Proyecto Integrador de cinco créditos (13 créditos). La formación se desarrollará en dos semestres, sujeta a aprobación institucional. Los fundamentos de ingeniería de software se verificarán al ingreso y se reforzarán mediante nivelación y actividades transversales.
 
-La evaluación del Proyecto Integrador exigirá especificación, arquitectura, producto reproducible, pruebas, métricas, análisis de riesgos, trazas y sustentación. Se propone una rúbrica de 20 % para requisitos y arquitectura, 25 % para construcción e integración, 25 % para evaluación, 15 % para seguridad y operación y 15 % para documentación y sustentación, sujeta a aprobación académica.
+La evaluación del Proyecto Integrador exigirá especificación, arquitectura, producto reproducible, pruebas, métricas, análisis de riesgos, trazas y sustentación. La rúbrica propuesta, sujeta a aprobación académica, se presenta junto con los hitos del Proyecto Integrador.
 
 
 ## Esquemas preliminares de syllabus del núcleo obligatorio
