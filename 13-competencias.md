@@ -12,6 +12,8 @@ El especialista será capaz de formular especificaciones y criterios de aceptaci
 
 Asimismo, definirá protocolos de evaluación para comprobar corrección funcional, robustez y seguridad; registrará resultados y limitaciones; e implementará mecanismos de observabilidad que permitan investigar errores y explicar decisiones de ingeniería. Podrá comparar soluciones asistidas y no asistidas mediante indicadores pertinentes, sin asumir mejoras automáticas de productividad.
 
+La evaluación de sistemas agénticos exige formular protocolos reproducibles con tareas, condiciones iniciales, criterios de terminación, métricas, repeticiones y análisis de errores y variabilidad. La competencia comprende evaluar no solo la respuesta final, sino también las acciones ejecutadas, los costos, la latencia y la capacidad de recuperación. Asimismo, el especialista elaborará modelos de amenazas para agentes con acceso a recursos y aplicará controles de **mínimo privilegio, aislamiento, autorización, protección de secretos, supervisión humana y trazabilidad**, con respaldo en [NIST SP 800-218A](https://csrc.nist.gov/pubs/sp/800/218/a/final) y las [prácticas fundacionales de AI Engineering del SEI](https://www.sei.cmu.edu/library/ai-engineering-twelve-foundational-practices/).
+
 ## Competencias actitudinales
 
 El egresado actuará con responsabilidad profesional sobre el software construido, independientemente del grado de automatización utilizado. Demostrará disposición a validar afirmaciones y resultados, reconocer incertidumbre, proteger datos y recursos, documentar decisiones y mantener supervisión humana de actuaciones críticas.
